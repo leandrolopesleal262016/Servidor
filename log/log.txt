@@ -1,0 +1,2672 @@
+25/11/19 - 10:53:44  Evento:  Conectado com: 127.0.0.1:50690
+25/11/19 - 10:53:44  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:24266605')
+25/11/19 - 10:53:44  Evento:  reconheceu cadastrar
+25/11/19 - 10:53:44  Evento:  Cadastrando no CMM...
+25/11/19 - 10:53:44  Evento:  ('nome vindo banco', u'Kaio Leao')
+25/11/19 - 10:53:44  Evento:  ('Central de Monitoramento', '172.20.6.14')
+25/11/19 - 10:53:44  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 10:53:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 10:53:47  Evento:  ('nome obtido do banco', 'Kaio Leao')
+25/11/19 - 10:53:47  Evento:  ('Numero do cliente recebido do condfy', '9014')
+25/11/19 - 10:53:47  Evento:  Condominio Central de Monitoramento IP 172.20.6.14 Kaio Leao Ap Comercial 
+25/11/19 - 10:53:47  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 10:53:47  Evento:  ok
+25/11/19 - 10:53:47  Evento:  ('Enviado evento pelo buffer', '10:53:47')
+25/11/19 - 10:53:47  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 10:53:47  Evento:  ('Enviado evento pelo buffer', '10:53:47')
+25/11/19 - 11:12:55  Evento:  Conectado com: 127.0.0.1:51620
+25/11/19 - 11:12:55  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:76731707')
+25/11/19 - 11:12:55  Evento:  reconheceu cadastrar
+25/11/19 - 11:12:55  Evento:  Cadastrando no CMM...
+25/11/19 - 11:12:55  Evento:  ('nome vindo banco', u'Joao Alberto Zago Bevenuto')
+25/11/19 - 11:12:55  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 11:12:55  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 11:12:59  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 11:12:59  Evento:  ('nome obtido do banco', 'Joao Alberto Zago Bevenuto')
+25/11/19 - 11:12:59  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 11:12:59  Evento:  Condominio LagoSul IP 172.19.1.251 Joao Alberto Zago Bevenuto Ap 09 34
+25/11/19 - 11:12:59  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 11:12:59  Evento:  ok
+25/11/19 - 11:12:59  Evento:  ('Enviado evento pelo buffer', '11:12:59')
+25/11/19 - 11:12:59  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 11:12:59  Evento:  ('Enviado evento pelo buffer', '11:12:59')
+25/11/19 - 11:19:35  Evento:  Conectado com: 127.0.0.1:51950
+25/11/19 - 11:19:35  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:37635948')
+25/11/19 - 11:19:35  Evento:  reconheceu cadastrar
+25/11/19 - 11:19:35  Evento:  Cadastrando no CMM...
+25/11/19 - 11:19:35  Evento:  ('nome vindo banco', u'Marina Reiki')
+25/11/19 - 11:19:35  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 11:19:35  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 11:19:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 11:19:40  Evento:  ('nome obtido do banco', 'Marina Reiki')
+25/11/19 - 11:19:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 11:19:40  Evento:  Condominio LagoSul IP 172.19.1.251 Marina Reiki Ap 26 05
+25/11/19 - 11:19:40  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 11:19:40  Evento:  ok
+25/11/19 - 11:19:40  Evento:  ('Enviado evento pelo buffer', '11:19:40')
+25/11/19 - 11:19:40  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 11:19:40  Evento:  ('Enviado evento pelo buffer', '11:19:40')
+25/11/19 - 12:14:28  Evento:  Conectado com: 127.0.0.1:54588
+25/11/19 - 12:14:28  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:26359088')
+25/11/19 - 12:14:28  Evento:  reconheceu cadastrar
+25/11/19 - 12:14:28  Evento:  Cadastrando no CMM...
+25/11/19 - 12:14:28  Evento:  ('nome vindo banco', u'Jose Eduardo Cogo Castanho')
+25/11/19 - 12:14:28  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 12:14:28  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 12:14:31  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 12:14:31  Evento:  ('nome obtido do banco', 'Jose Eduardo Cogo Castanho')
+25/11/19 - 12:14:31  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 12:14:31  Evento:  Condominio LagoSul IP 172.19.1.251 Jose Eduardo Cogo Castanho Ap 07 24
+25/11/19 - 12:14:31  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 12:14:31  Evento:  ok
+25/11/19 - 12:14:31  Evento:  ('Enviado evento pelo buffer', '12:14:31')
+25/11/19 - 12:14:31  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 12:14:31  Evento:  ('Enviado evento pelo buffer', '12:14:31')
+25/11/19 - 12:27:56  Evento:  Conectado com: 127.0.0.1:55242
+25/11/19 - 12:27:56  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18764953')
+25/11/19 - 12:27:56  Evento:  reconheceu cadastrar
+25/11/19 - 12:27:56  Evento:  Cadastrando no CMM...
+25/11/19 - 12:27:56  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+25/11/19 - 12:27:56  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 12:27:56  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 12:27:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 12:27:57  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+25/11/19 - 12:27:57  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 12:27:57  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+25/11/19 - 12:27:57  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 12:27:57  Evento:  ok
+25/11/19 - 12:27:57  Evento:  ('Enviado evento pelo buffer', '12:27:57')
+25/11/19 - 12:27:57  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 12:27:57  Evento:  ('Enviado evento pelo buffer', '12:27:57')
+25/11/19 - 13:05:36  Evento:  Conectado com: 127.0.0.1:57056
+25/11/19 - 13:05:36  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:76373958')
+25/11/19 - 13:05:36  Evento:  reconheceu cadastrar
+25/11/19 - 13:05:36  Evento:  Cadastrando no CMM...
+25/11/19 - 13:05:36  Evento:  ('nome vindo banco', u'Joao Alberto Zago Bevenuto')
+25/11/19 - 13:05:36  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 13:05:36  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 13:05:36  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 13:05:36  Evento:  ('nome obtido do banco', 'Joao Alberto Zago Bevenuto')
+25/11/19 - 13:05:36  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 13:05:36  Evento:  Condominio LagoSul IP 172.19.1.251 Joao Alberto Zago Bevenuto Ap 09 34
+25/11/19 - 13:05:36  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 13:05:36  Evento:  ok
+25/11/19 - 13:05:36  Evento:  ('Enviado evento pelo buffer', '13:05:36')
+25/11/19 - 13:05:36  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 13:05:36  Evento:  ('Enviado evento pelo buffer', '13:05:36')
+25/11/19 - 13:06:23  Evento:  Conectado com: 127.0.0.1:57106
+25/11/19 - 13:06:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23145214')
+25/11/19 - 13:06:23  Evento:  reconheceu cadastrar
+25/11/19 - 13:06:23  Evento:  Cadastrando no CMM...
+25/11/19 - 13:06:23  Evento:  ('nome vindo banco', u'Regina Sayuri Mashiba Yaedu')
+25/11/19 - 13:06:23  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 13:06:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 13:06:26  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 13:06:26  Evento:  ('nome obtido do banco', 'Regina Sayuri Mashiba Yaedu')
+25/11/19 - 13:06:26  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 13:06:26  Evento:  Condominio LagoSul IP 172.19.1.251 Regina Sayuri Mashiba Yaedu Ap 09 39
+25/11/19 - 13:06:26  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 13:06:28  Evento:  ok
+25/11/19 - 13:06:28  Evento:  ('Enviado evento pelo buffer', '13:06:26')
+25/11/19 - 13:06:28  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 13:06:28  Evento:  ('Enviado evento pelo buffer', '13:06:26')
+25/11/19 - 14:02:13  Evento:  Conectado com: 127.0.0.1:59788
+25/11/19 - 14:02:13  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:25567047')
+25/11/19 - 14:02:13  Evento:  reconheceu cadastrar
+25/11/19 - 14:02:13  Evento:  Cadastrando no CMM...
+25/11/19 - 14:02:13  Evento:  ('nome vindo banco', u'Larissa Tadei')
+25/11/19 - 14:02:13  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:02:13  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:02:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:02:13  Evento:  ('nome obtido do banco', 'Larissa Tadei')
+25/11/19 - 14:02:13  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:02:13  Evento:  Condominio LagoSul IP 172.19.1.251 Larissa Tadei Ap 09 34
+25/11/19 - 14:02:13  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:02:14  Evento:  ok
+25/11/19 - 14:02:14  Evento:  ('Enviado evento pelo buffer', '14:02:13')
+25/11/19 - 14:02:14  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:02:14  Evento:  ('Enviado evento pelo buffer', '14:02:13')
+25/11/19 - 14:09:15  Evento:  Conectado com: 127.0.0.1:60138
+25/11/19 - 14:09:15  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:32877314')
+25/11/19 - 14:09:15  Evento:  reconheceu cadastrar
+25/11/19 - 14:09:15  Evento:  Cadastrando no CMM...
+25/11/19 - 14:09:15  Evento:  ('nome vindo banco', u'Parmito')
+25/11/19 - 14:09:15  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:09:15  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:09:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:09:19  Evento:  ('nome obtido do banco', 'Parmito')
+25/11/19 - 14:09:19  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:09:19  Evento:  Condominio LagoSul IP 172.19.1.251 Parmito Ap 18 14
+25/11/19 - 14:09:19  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:09:19  Evento:  ok
+25/11/19 - 14:09:19  Evento:  ('Enviado evento pelo buffer', '14:09:19')
+25/11/19 - 14:09:19  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:09:19  Evento:  ('Enviado evento pelo buffer', '14:09:19')
+25/11/19 - 14:10:08  Evento:  Conectado com: 127.0.0.1:60188
+25/11/19 - 14:10:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:34971846')
+25/11/19 - 14:10:08  Evento:  reconheceu cadastrar
+25/11/19 - 14:10:08  Evento:  Cadastrando no CMM...
+25/11/19 - 14:10:08  Evento:  ('nome vindo banco', u'Achiles')
+25/11/19 - 14:10:08  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:10:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:10:09  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:10:09  Evento:  ('nome obtido do banco', 'Achiles')
+25/11/19 - 14:10:09  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:10:09  Evento:  Condominio LagoSul IP 172.19.1.251 Achiles Ap 18 14
+25/11/19 - 14:10:09  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:10:10  Evento:  ok
+25/11/19 - 14:10:10  Evento:  ('Enviado evento pelo buffer', '14:10:09')
+25/11/19 - 14:10:10  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:10:10  Evento:  ('Enviado evento pelo buffer', '14:10:09')
+25/11/19 - 14:10:41  Evento:  Conectado com: 127.0.0.1:60226
+25/11/19 - 14:10:41  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:86952363')
+25/11/19 - 14:10:41  Evento:  reconheceu cadastrar
+25/11/19 - 14:10:41  Evento:  Cadastrando no CMM...
+25/11/19 - 14:10:41  Evento:  ('nome vindo banco', u'Ton Pokerzao')
+25/11/19 - 14:10:41  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:10:41  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:10:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:10:45  Evento:  ('nome obtido do banco', 'Ton Pokerzao')
+25/11/19 - 14:10:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:10:45  Evento:  Condominio LagoSul IP 172.19.1.251 Ton Pokerzao Ap 18 14
+25/11/19 - 14:10:45  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:10:45  Evento:  ok
+25/11/19 - 14:10:45  Evento:  ('Enviado evento pelo buffer', '14:10:45')
+25/11/19 - 14:10:45  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:10:45  Evento:  ('Enviado evento pelo buffer', '14:10:45')
+25/11/19 - 14:11:29  Evento:  Conectado com: 127.0.0.1:60272
+25/11/19 - 14:11:29  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:43407257')
+25/11/19 - 14:11:29  Evento:  reconheceu cadastrar
+25/11/19 - 14:11:29  Evento:  Cadastrando no CMM...
+25/11/19 - 14:11:29  Evento:  ('nome vindo banco', u'Rodrigo Montanher')
+25/11/19 - 14:11:29  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:11:29  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:11:30  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:11:30  Evento:  ('nome obtido do banco', 'Rodrigo Montanher')
+25/11/19 - 14:11:30  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:11:30  Evento:  Condominio LagoSul IP 172.19.1.251 Rodrigo Montanher Ap 18 14
+25/11/19 - 14:11:30  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:11:30  Evento:  ok
+25/11/19 - 14:11:30  Evento:  ('Enviado evento pelo buffer', '14:11:30')
+25/11/19 - 14:11:30  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:11:30  Evento:  ('Enviado evento pelo buffer', '14:11:30')
+25/11/19 - 14:12:10  Evento:  Conectado com: 127.0.0.1:60318
+25/11/19 - 14:12:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:93058803')
+25/11/19 - 14:12:10  Evento:  reconheceu cadastrar
+25/11/19 - 14:12:10  Evento:  Cadastrando no CMM...
+25/11/19 - 14:12:10  Evento:  ('nome vindo banco', u'Fanero')
+25/11/19 - 14:12:10  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:12:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:12:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:12:15  Evento:  ('nome obtido do banco', 'Fanero')
+25/11/19 - 14:12:15  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:12:15  Evento:  Condominio LagoSul IP 172.19.1.251 Fanero Ap 18 14
+25/11/19 - 14:12:15  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:12:15  Evento:  ok
+25/11/19 - 14:12:15  Evento:  ('Enviado evento pelo buffer', '14:12:15')
+25/11/19 - 14:12:15  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:12:15  Evento:  ('Enviado evento pelo buffer', '14:12:15')
+25/11/19 - 14:14:08  Evento:  Conectado com: 127.0.0.1:60420
+25/11/19 - 14:14:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23587677')
+25/11/19 - 14:14:08  Evento:  reconheceu cadastrar
+25/11/19 - 14:14:08  Evento:  Cadastrando no CMM...
+25/11/19 - 14:14:08  Evento:  ('nome vindo banco', u'Jose Eduardo Cogo Castanho')
+25/11/19 - 14:14:08  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 14:14:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 14:14:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 14:14:10  Evento:  ('nome obtido do banco', 'Jose Eduardo Cogo Castanho')
+25/11/19 - 14:14:10  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 14:14:10  Evento:  Condominio LagoSul IP 172.19.1.251 Jose Eduardo Cogo Castanho Ap 07 24
+25/11/19 - 14:14:10  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 14:14:10  Evento:  ok
+25/11/19 - 14:14:10  Evento:  ('Enviado evento pelo buffer', '14:14:10')
+25/11/19 - 14:14:10  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 14:14:10  Evento:  ('Enviado evento pelo buffer', '14:14:10')
+25/11/19 - 15:55:11  Evento:  Conectado com: 127.0.0.1:37042
+25/11/19 - 15:55:11  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:38505396')
+25/11/19 - 15:55:11  Evento:  reconheceu cadastrar
+25/11/19 - 15:55:11  Evento:  Cadastrando no CMM...
+25/11/19 - 15:55:11  Evento:  ('nome vindo banco', u'Reginaldo Sousa')
+25/11/19 - 15:55:11  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 15:55:11  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 15:55:16  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 15:55:16  Evento:  ('nome obtido do banco', 'Reginaldo Sousa')
+25/11/19 - 15:55:16  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 15:55:16  Evento:  Condominio LagoSul IP 172.19.1.251 Reginaldo Sousa Ap 10 01
+25/11/19 - 15:55:16  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 15:55:16  Evento:  ok
+25/11/19 - 15:55:16  Evento:  ('Enviado evento pelo buffer', '15:55:16')
+25/11/19 - 15:55:16  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 15:55:16  Evento:  ('Enviado evento pelo buffer', '15:55:16')
+25/11/19 - 16:27:38  Evento:  Conectado com: 127.0.0.1:38604
+25/11/19 - 16:27:38  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:48730259')
+25/11/19 - 16:27:38  Evento:  reconheceu cadastrar
+25/11/19 - 16:27:38  Evento:  Cadastrando no CMM...
+25/11/19 - 16:27:38  Evento:  ('nome vindo banco', u'Maria Beatriz L. Canedo')
+25/11/19 - 16:27:38  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 16:27:38  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 16:27:39  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 16:27:39  Evento:  ('nome obtido do banco', 'Maria Beatriz L. Canedo')
+25/11/19 - 16:27:39  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 16:27:39  Evento:  Condominio LagoSul IP 172.19.1.251 Maria Beatriz L. Canedo Ap 12 37
+25/11/19 - 16:27:39  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 16:27:40  Evento:  ok
+25/11/19 - 16:27:40  Evento:  ('Enviado evento pelo buffer', '16:27:39')
+25/11/19 - 16:27:40  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 16:27:40  Evento:  ('Enviado evento pelo buffer', '16:27:39')
+25/11/19 - 16:29:20  Evento:  Conectado com: 127.0.0.1:38698
+25/11/19 - 16:29:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:10278303')
+25/11/19 - 16:29:20  Evento:  reconheceu cadastrar
+25/11/19 - 16:29:20  Evento:  Cadastrando no CMM...
+25/11/19 - 16:29:20  Evento:  ('nome vindo banco', u'Thiago')
+25/11/19 - 16:29:20  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 16:29:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 16:29:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 16:29:25  Evento:  ('nome obtido do banco', 'Thiago')
+25/11/19 - 16:29:25  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 16:29:25  Evento:  Condominio LagoSul IP 172.19.1.251 Thiago Ap 12 37
+25/11/19 - 16:29:25  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 16:29:25  Evento:  ok
+25/11/19 - 16:29:25  Evento:  ('Enviado evento pelo buffer', '16:29:25')
+25/11/19 - 16:29:25  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 16:29:25  Evento:  ('Enviado evento pelo buffer', '16:29:25')
+25/11/19 - 16:55:59  Evento:  Conectado com: 127.0.0.1:39984
+25/11/19 - 16:55:59  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:12253458')
+25/11/19 - 16:55:59  Evento:  reconheceu cadastrar
+25/11/19 - 16:55:59  Evento:  Cadastrando no CMM...
+25/11/19 - 16:55:59  Evento:  ('nome vindo banco', u'Lucas De Moraes Cozza')
+25/11/19 - 16:55:59  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 16:55:59  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 16:56:03  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 16:56:03  Evento:  ('nome obtido do banco', 'Lucas De Moraes Cozza')
+25/11/19 - 16:56:03  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 16:56:03  Evento:  Condominio LagoSul IP 172.19.1.251 Lucas De Moraes Cozza Ap 01 14
+25/11/19 - 16:56:03  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 16:56:03  Evento:  ok
+25/11/19 - 16:56:03  Evento:  ('Enviado evento pelo buffer', '16:56:03')
+25/11/19 - 16:56:03  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 16:56:03  Evento:  ('Enviado evento pelo buffer', '16:56:03')
+25/11/19 - 17:01:10  Evento:  Conectado com: 127.0.0.1:40242
+25/11/19 - 17:01:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59903802')
+25/11/19 - 17:01:10  Evento:  reconheceu cadastrar
+25/11/19 - 17:01:10  Evento:  Cadastrando no CMM...
+25/11/19 - 17:01:10  Evento:  ('nome vindo banco', u'Lucas De Moraes Cozza')
+25/11/19 - 17:01:10  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:01:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:01:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:01:13  Evento:  ('nome obtido do banco', 'Lucas De Moraes Cozza')
+25/11/19 - 17:01:13  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:01:13  Evento:  Condominio LagoSul IP 172.19.1.251 Lucas De Moraes Cozza Ap 01 14
+25/11/19 - 17:01:13  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:01:13  Evento:  ok
+25/11/19 - 17:01:13  Evento:  ('Enviado evento pelo buffer', '17:01:13')
+25/11/19 - 17:01:13  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:01:13  Evento:  ('Enviado evento pelo buffer', '17:01:13')
+25/11/19 - 17:18:16  Evento:  Conectado com: 127.0.0.1:41072
+25/11/19 - 17:18:16  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:57453152')
+25/11/19 - 17:18:16  Evento:  reconheceu cadastrar
+25/11/19 - 17:18:16  Evento:  Cadastrando no CMM...
+25/11/19 - 17:18:16  Evento:  ('nome vindo banco', u'Lucas De Moraes Cozza')
+25/11/19 - 17:18:16  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:18:16  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:18:20  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:18:20  Evento:  ('nome obtido do banco', 'Lucas De Moraes Cozza')
+25/11/19 - 17:18:20  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:18:20  Evento:  Condominio LagoSul IP 172.19.1.251 Lucas De Moraes Cozza Ap 01 14
+25/11/19 - 17:18:20  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:18:20  Evento:  ok
+25/11/19 - 17:18:20  Evento:  ('Enviado evento pelo buffer', '17:18:20')
+25/11/19 - 17:18:20  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:18:20  Evento:  ('Enviado evento pelo buffer', '17:18:20')
+25/11/19 - 17:34:58  Evento:  Conectado com: 127.0.0.1:41882
+25/11/19 - 17:34:58  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:32061846')
+25/11/19 - 17:34:58  Evento:  reconheceu cadastrar
+25/11/19 - 17:34:58  Evento:  Cadastrando no CMM...
+25/11/19 - 17:34:58  Evento:  ('nome vindo banco', u'Dani Marino')
+25/11/19 - 17:34:58  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:34:58  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:35:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:35:02  Evento:  ('nome obtido do banco', 'Dani Marino')
+25/11/19 - 17:35:02  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:35:02  Evento:  Condominio LagoSul IP 172.19.1.251 Dani Marino Ap 01 08
+25/11/19 - 17:35:02  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:35:02  Evento:  ok
+25/11/19 - 17:35:02  Evento:  ('Enviado evento pelo buffer', '17:35:02')
+25/11/19 - 17:35:02  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:35:02  Evento:  ('Enviado evento pelo buffer', '17:35:02')
+25/11/19 - 17:35:21  Evento:  Conectado com: 127.0.0.1:41908
+25/11/19 - 17:35:21  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:88074798')
+25/11/19 - 17:35:21  Evento:  reconheceu cadastrar
+25/11/19 - 17:35:21  Evento:  Cadastrando no CMM...
+25/11/19 - 17:35:21  Evento:  ('nome vindo banco', u'Renata Viver')
+25/11/19 - 17:35:21  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:35:21  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:35:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:35:22  Evento:  ('nome obtido do banco', 'Renata Viver')
+25/11/19 - 17:35:22  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:35:22  Evento:  Condominio LagoSul IP 172.19.1.251 Renata Viver Ap 01 08
+25/11/19 - 17:35:22  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:35:22  Evento:  ok
+25/11/19 - 17:35:22  Evento:  ('Enviado evento pelo buffer', '17:35:22')
+25/11/19 - 17:35:22  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:35:22  Evento:  ('Enviado evento pelo buffer', '17:35:22')
+25/11/19 - 17:35:46  Evento:  Conectado com: 127.0.0.1:41938
+25/11/19 - 17:35:46  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:17888910')
+25/11/19 - 17:35:46  Evento:  reconheceu cadastrar
+25/11/19 - 17:35:46  Evento:  Cadastrando no CMM...
+25/11/19 - 17:35:46  Evento:  ('nome vindo banco', u'Selma Viver')
+25/11/19 - 17:35:46  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:35:46  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:35:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:35:47  Evento:  ('nome obtido do banco', 'Selma Viver')
+25/11/19 - 17:35:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:35:47  Evento:  Condominio LagoSul IP 172.19.1.251 Selma Viver Ap 01 08
+25/11/19 - 17:35:47  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:35:47  Evento:  ok
+25/11/19 - 17:35:47  Evento:  ('Enviado evento pelo buffer', '17:35:47')
+25/11/19 - 17:35:47  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:35:47  Evento:  ('Enviado evento pelo buffer', '17:35:47')
+25/11/19 - 17:36:10  Evento:  Conectado com: 127.0.0.1:41968
+25/11/19 - 17:36:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:25107266')
+25/11/19 - 17:36:10  Evento:  reconheceu cadastrar
+25/11/19 - 17:36:10  Evento:  Cadastrando no CMM...
+25/11/19 - 17:36:10  Evento:  ('nome vindo banco', u'Carol Viver')
+25/11/19 - 17:36:10  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:36:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:36:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:36:13  Evento:  ('nome obtido do banco', 'Carol Viver')
+25/11/19 - 17:36:13  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:36:13  Evento:  Condominio LagoSul IP 172.19.1.251 Carol Viver Ap 01 08
+25/11/19 - 17:36:13  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:36:13  Evento:  ok
+25/11/19 - 17:36:13  Evento:  ('Enviado evento pelo buffer', '17:36:13')
+25/11/19 - 17:36:13  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:36:13  Evento:  ('Enviado evento pelo buffer', '17:36:13')
+25/11/19 - 17:36:34  Evento:  Conectado com: 127.0.0.1:41998
+25/11/19 - 17:36:34  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:45131557')
+25/11/19 - 17:36:34  Evento:  reconheceu cadastrar
+25/11/19 - 17:36:34  Evento:  Cadastrando no CMM...
+25/11/19 - 17:36:34  Evento:  ('nome vindo banco', u'Simone Viver')
+25/11/19 - 17:36:34  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:36:34  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:36:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:36:38  Evento:  ('nome obtido do banco', 'Simone Viver')
+25/11/19 - 17:36:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:36:38  Evento:  Condominio LagoSul IP 172.19.1.251 Simone Viver Ap 01 08
+25/11/19 - 17:36:38  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:36:38  Evento:  ok
+25/11/19 - 17:36:38  Evento:  ('Enviado evento pelo buffer', '17:36:38')
+25/11/19 - 17:36:38  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:36:38  Evento:  ('Enviado evento pelo buffer', '17:36:38')
+25/11/19 - 17:36:56  Evento:  Conectado com: 127.0.0.1:42024
+25/11/19 - 17:36:56  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:39452532')
+25/11/19 - 17:36:56  Evento:  reconheceu cadastrar
+25/11/19 - 17:36:56  Evento:  Cadastrando no CMM...
+25/11/19 - 17:36:56  Evento:  ('nome vindo banco', u'Juliana Grejo')
+25/11/19 - 17:36:56  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:36:56  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:36:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:36:58  Evento:  ('nome obtido do banco', 'Juliana Grejo')
+25/11/19 - 17:36:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:36:58  Evento:  Condominio LagoSul IP 172.19.1.251 Juliana Grejo Ap 01 08
+25/11/19 - 17:36:58  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:36:58  Evento:  ok
+25/11/19 - 17:36:58  Evento:  ('Enviado evento pelo buffer', '17:36:58')
+25/11/19 - 17:36:58  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:36:58  Evento:  ('Enviado evento pelo buffer', '17:36:58')
+25/11/19 - 17:37:20  Evento:  Conectado com: 127.0.0.1:42054
+25/11/19 - 17:37:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:30678167')
+25/11/19 - 17:37:20  Evento:  reconheceu cadastrar
+25/11/19 - 17:37:20  Evento:  Cadastrando no CMM...
+25/11/19 - 17:37:20  Evento:  ('nome vindo banco', u'Fernanda Feola')
+25/11/19 - 17:37:20  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 17:37:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 17:37:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 17:37:23  Evento:  ('nome obtido do banco', 'Fernanda Feola')
+25/11/19 - 17:37:23  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 17:37:23  Evento:  Condominio LagoSul IP 172.19.1.251 Fernanda Feola Ap 01 08
+25/11/19 - 17:37:23  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 17:37:23  Evento:  ok
+25/11/19 - 17:37:23  Evento:  ('Enviado evento pelo buffer', '17:37:23')
+25/11/19 - 17:37:23  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 17:37:23  Evento:  ('Enviado evento pelo buffer', '17:37:23')
+25/11/19 - 18:03:14  Evento:  Conectado com: 127.0.0.1:43304
+25/11/19 - 18:03:14  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:31296687')
+25/11/19 - 18:03:14  Evento:  reconheceu cadastrar
+25/11/19 - 18:03:14  Evento:  Cadastrando no CMM...
+25/11/19 - 18:03:14  Evento:  ('nome vindo banco', u'Henrique Fisio')
+25/11/19 - 18:03:14  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 18:03:14  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 18:03:16  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 18:03:16  Evento:  ('nome obtido do banco', 'Henrique Fisio')
+25/11/19 - 18:03:16  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 18:03:16  Evento:  Condominio LagoSul IP 172.19.1.251 Henrique Fisio Ap 01 08
+25/11/19 - 18:03:16  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 18:03:16  Evento:  ok
+25/11/19 - 18:03:16  Evento:  ('Enviado evento pelo buffer', '18:03:16')
+25/11/19 - 18:03:16  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 18:03:16  Evento:  ('Enviado evento pelo buffer', '18:03:16')
+25/11/19 - 18:45:49  Evento:  Conectado com: 127.0.0.1:45354
+25/11/19 - 18:45:49  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:34319782')
+25/11/19 - 18:45:49  Evento:  reconheceu cadastrar
+25/11/19 - 18:45:49  Evento:  Cadastrando no CMM...
+25/11/19 - 18:45:49  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+25/11/19 - 18:45:49  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 18:45:49  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 18:45:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 18:45:50  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+25/11/19 - 18:45:50  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 18:45:50  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+25/11/19 - 18:45:50  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 18:45:51  Evento:  ok
+25/11/19 - 18:45:51  Evento:  ('Enviado evento pelo buffer', '18:45:50')
+25/11/19 - 18:45:51  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 18:45:51  Evento:  ('Enviado evento pelo buffer', '18:45:50')
+25/11/19 - 19:39:58  Evento:  Conectado com: 127.0.0.1:47960
+25/11/19 - 19:39:58  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:98857108')
+25/11/19 - 19:39:58  Evento:  reconheceu cadastrar
+25/11/19 - 19:39:58  Evento:  Cadastrando no CMM...
+25/11/19 - 19:39:58  Evento:  ('nome vindo banco', u'Cida')
+25/11/19 - 19:39:58  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 19:39:58  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 19:40:01  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 19:40:01  Evento:  ('nome obtido do banco', 'Cida')
+25/11/19 - 19:40:01  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 19:40:01  Evento:  Condominio LagoSul IP 172.19.1.251 Cida Ap 20 24
+25/11/19 - 19:40:01  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 19:40:01  Evento:  ok
+25/11/19 - 19:40:01  Evento:  ('Enviado evento pelo buffer', '19:40:01')
+25/11/19 - 19:40:01  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 19:40:01  Evento:  ('Enviado evento pelo buffer', '19:40:01')
+25/11/19 - 19:58:08  Evento:  Conectado com: 127.0.0.1:48838
+25/11/19 - 19:58:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:17587054')
+25/11/19 - 19:58:08  Evento:  reconheceu cadastrar
+25/11/19 - 19:58:08  Evento:  Cadastrando no CMM...
+25/11/19 - 19:58:08  Evento:  ('nome vindo banco', u'Gu Mamae')
+25/11/19 - 19:58:08  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 19:58:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 19:58:08  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 19:58:08  Evento:  ('nome obtido do banco', 'Gu Mamae')
+25/11/19 - 19:58:08  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 19:58:08  Evento:  Condominio LagoSul IP 172.19.1.251 Gu Mamae Ap 12 38
+25/11/19 - 19:58:08  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 19:58:08  Evento:  ok
+25/11/19 - 19:58:08  Evento:  ('Enviado evento pelo buffer', '19:58:08')
+25/11/19 - 19:58:08  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 19:58:08  Evento:  ('Enviado evento pelo buffer', '19:58:08')
+25/11/19 - 20:00:20  Evento:  Conectado com: 127.0.0.1:48956
+25/11/19 - 20:00:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:45162694')
+25/11/19 - 20:00:20  Evento:  reconheceu cadastrar
+25/11/19 - 20:00:20  Evento:  Cadastrando no CMM...
+25/11/19 - 20:00:20  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+25/11/19 - 20:00:20  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 20:00:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 20:00:24  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 20:00:24  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+25/11/19 - 20:00:24  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 20:00:24  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+25/11/19 - 20:00:24  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 20:00:24  Evento:  ok
+25/11/19 - 20:00:24  Evento:  ('Enviado evento pelo buffer', '20:00:24')
+25/11/19 - 20:00:24  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 20:00:24  Evento:  ('Enviado evento pelo buffer', '20:00:24')
+25/11/19 - 21:20:00  Evento:  Conectado com: 127.0.0.1:52782
+25/11/19 - 21:20:00  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:60747364')
+25/11/19 - 21:20:00  Evento:  reconheceu cadastrar
+25/11/19 - 21:20:00  Evento:  Cadastrando no CMM...
+25/11/19 - 21:20:00  Evento:  ('nome vindo banco', u'Dra Malu')
+25/11/19 - 21:20:00  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 21:20:00  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 21:20:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 21:20:02  Evento:  ('nome obtido do banco', 'Dra Malu')
+25/11/19 - 21:20:02  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 21:20:02  Evento:  Condominio LagoSul IP 172.19.1.251 Dra Malu Ap 10 01
+25/11/19 - 21:20:02  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 21:20:02  Evento:  ok
+25/11/19 - 21:20:02  Evento:  ('Enviado evento pelo buffer', '21:20:02')
+25/11/19 - 21:20:02  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 21:20:02  Evento:  ('Enviado evento pelo buffer', '21:20:02')
+25/11/19 - 21:28:36  Evento:  Conectado com: 127.0.0.1:53204
+25/11/19 - 21:28:36  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:12350609')
+25/11/19 - 21:28:36  Evento:  reconheceu cadastrar
+25/11/19 - 21:28:36  Evento:  Cadastrando no CMM...
+25/11/19 - 21:28:36  Evento:  ('nome vindo banco', u'Lahis Ramos Gandara')
+25/11/19 - 21:28:36  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 21:28:37  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 21:28:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 21:28:38  Evento:  ('nome obtido do banco', 'Lahis Ramos Gandara')
+25/11/19 - 21:28:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 21:28:38  Evento:  Condominio LagoSul IP 172.19.1.251 Lahis Ramos Gandara Ap 13 22
+25/11/19 - 21:28:38  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 21:28:38  Evento:  ok
+25/11/19 - 21:28:38  Evento:  ('Enviado evento pelo buffer', '21:28:38')
+25/11/19 - 21:28:38  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 21:28:38  Evento:  ('Enviado evento pelo buffer', '21:28:38')
+25/11/19 - 21:33:29  Evento:  Conectado com: 127.0.0.1:53446
+25/11/19 - 21:33:29  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:28915915')
+25/11/19 - 21:33:29  Evento:  reconheceu cadastrar
+25/11/19 - 21:33:29  Evento:  Cadastrando no CMM...
+25/11/19 - 21:33:29  Evento:  ('nome vindo banco', u'Prescila Alice')
+25/11/19 - 21:33:29  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 21:33:29  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 21:33:29  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 21:33:29  Evento:  ('nome obtido do banco', 'Prescila Alice')
+25/11/19 - 21:33:29  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 21:33:29  Evento:  Condominio LagoSul IP 172.19.1.251 Prescila Alice Ap 12 37
+25/11/19 - 21:33:29  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 21:33:29  Evento:  ok
+25/11/19 - 21:33:29  Evento:  ('Enviado evento pelo buffer', '21:33:29')
+25/11/19 - 21:33:29  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 21:33:29  Evento:  ('Enviado evento pelo buffer', '21:33:29')
+25/11/19 - 21:50:16  Evento:  Conectado com: 127.0.0.1:54260
+25/11/19 - 21:50:16  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:61537494')
+25/11/19 - 21:50:16  Evento:  reconheceu cadastrar
+25/11/19 - 21:50:16  Evento:  Cadastrando no CMM...
+25/11/19 - 21:50:16  Evento:  ('nome vindo banco', u'Giovana Angel Scriptore Montei')
+25/11/19 - 21:50:16  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 21:50:16  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 21:50:16  Evento:  ('nome obtido do banco', 'Giovana Angel Scriptore Montei')
+25/11/19 - 21:50:16  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 21:50:16  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 21:50:16  Evento:  Condominio LagoSul IP 172.19.1.251 Giovana Angel Scriptore Montei Ap 05 35
+25/11/19 - 21:50:16  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 21:50:16  Evento:  ok
+25/11/19 - 21:50:16  Evento:  ('Enviado evento pelo buffer', '21:50:16')
+25/11/19 - 21:50:16  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 21:50:16  Evento:  ('Enviado evento pelo buffer', '21:50:16')
+25/11/19 - 22:13:41  Evento:  Conectado com: 127.0.0.1:55394
+25/11/19 - 22:13:41  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:91895475')
+25/11/19 - 22:13:41  Evento:  reconheceu cadastrar
+25/11/19 - 22:13:41  Evento:  Cadastrando no CMM...
+25/11/19 - 22:13:41  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+25/11/19 - 22:13:41  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 22:13:41  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 22:13:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 22:13:43  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+25/11/19 - 22:13:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 22:13:43  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+25/11/19 - 22:13:43  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 22:13:43  Evento:  ok
+25/11/19 - 22:13:43  Evento:  ('Enviado evento pelo buffer', '22:13:43')
+25/11/19 - 22:13:43  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 22:13:43  Evento:  ('Enviado evento pelo buffer', '22:13:43')
+25/11/19 - 22:35:58  Evento:  Conectado com: 127.0.0.1:56472
+25/11/19 - 22:35:58  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:28889998')
+25/11/19 - 22:35:58  Evento:  reconheceu cadastrar
+25/11/19 - 22:35:58  Evento:  Cadastrando no CMM...
+25/11/19 - 22:35:58  Evento:  ('nome vindo banco', u'Mirian Mae Cisne')
+25/11/19 - 22:35:58  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 22:35:58  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 22:36:01  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 22:36:01  Evento:  ('nome obtido do banco', 'Mirian Mae Cisne')
+25/11/19 - 22:36:01  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 22:36:01  Evento:  Condominio LagoSul IP 172.19.1.251 Mirian Mae Cisne Ap 12 37
+25/11/19 - 22:36:01  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 22:36:01  Evento:  ok
+25/11/19 - 22:36:01  Evento:  ('Enviado evento pelo buffer', '22:36:01')
+25/11/19 - 22:36:01  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 22:36:01  Evento:  ('Enviado evento pelo buffer', '22:36:01')
+25/11/19 - 22:37:08  Evento:  Conectado com: 127.0.0.1:56538
+25/11/19 - 22:37:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:67412741')
+25/11/19 - 22:37:08  Evento:  reconheceu cadastrar
+25/11/19 - 22:37:08  Evento:  Cadastrando no CMM...
+25/11/19 - 22:37:08  Evento:  ('nome vindo banco', u'Thais Gigi')
+25/11/19 - 22:37:08  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 22:37:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 22:37:11  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 22:37:11  Evento:  ('nome obtido do banco', 'Thais Gigi')
+25/11/19 - 22:37:11  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 22:37:11  Evento:  Condominio LagoSul IP 172.19.1.251 Thais Gigi Ap 12 37
+25/11/19 - 22:37:11  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 22:37:11  Evento:  ok
+25/11/19 - 22:37:11  Evento:  ('Enviado evento pelo buffer', '22:37:11')
+25/11/19 - 22:37:11  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 22:37:11  Evento:  ('Enviado evento pelo buffer', '22:37:11')
+25/11/19 - 22:41:12  Evento:  Conectado com: 127.0.0.1:56744
+25/11/19 - 22:41:12  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:37457805')
+25/11/19 - 22:41:12  Evento:  reconheceu cadastrar
+25/11/19 - 22:41:12  Evento:  Cadastrando no CMM...
+25/11/19 - 22:41:12  Evento:  ('nome vindo banco', u'Fran GUI')
+25/11/19 - 22:41:12  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 22:41:12  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 22:41:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 22:41:17  Evento:  ('nome obtido do banco', 'Fran GUI')
+25/11/19 - 22:41:17  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 22:41:17  Evento:  Condominio LagoSul IP 172.19.1.251 Fran GUI Ap 12 37
+25/11/19 - 22:41:17  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 22:41:17  Evento:  ok
+25/11/19 - 22:41:17  Evento:  ('Enviado evento pelo buffer', '22:41:17')
+25/11/19 - 22:41:17  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 22:41:17  Evento:  ('Enviado evento pelo buffer', '22:41:17')
+25/11/19 - 22:57:35  Evento:  Conectado com: 127.0.0.1:57538
+25/11/19 - 22:57:35  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:43351624')
+25/11/19 - 22:57:35  Evento:  reconheceu cadastrar
+25/11/19 - 22:57:35  Evento:  Cadastrando no CMM...
+25/11/19 - 22:57:35  Evento:  ('nome vindo banco', u'jamile octavio')
+25/11/19 - 22:57:35  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 22:57:35  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 22:57:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 22:57:38  Evento:  ('nome obtido do banco', 'jamile octavio')
+25/11/19 - 22:57:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 22:57:38  Evento:  Condominio LagoSul IP 172.19.1.251 jamile octavio Ap 12 37
+25/11/19 - 22:57:38  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 22:57:39  Evento:  ok
+25/11/19 - 22:57:39  Evento:  ('Enviado evento pelo buffer', '22:57:38')
+25/11/19 - 22:57:39  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 22:57:39  Evento:  ('Enviado evento pelo buffer', '22:57:38')
+25/11/19 - 23:25:07  Evento:  Conectado com: 127.0.0.1:58868
+25/11/19 - 23:25:07  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18671753')
+25/11/19 - 23:25:07  Evento:  reconheceu cadastrar
+25/11/19 - 23:25:07  Evento:  Cadastrando no CMM...
+25/11/19 - 23:25:07  Evento:  ('nome vindo banco', u'Cibele Mae Eduarda')
+25/11/19 - 23:25:07  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 23:25:07  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 23:25:11  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 23:25:11  Evento:  ('nome obtido do banco', 'Cibele Mae Eduarda')
+25/11/19 - 23:25:11  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 23:25:11  Evento:  Condominio LagoSul IP 172.19.1.251 Cibele Mae Eduarda Ap 12 37
+25/11/19 - 23:25:11  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 23:25:12  Evento:  ok
+25/11/19 - 23:25:12  Evento:  ('Enviado evento pelo buffer', '23:25:11')
+25/11/19 - 23:25:12  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 23:25:12  Evento:  ('Enviado evento pelo buffer', '23:25:11')
+25/11/19 - 23:26:10  Evento:  Conectado com: 127.0.0.1:58926
+25/11/19 - 23:26:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:62161724')
+25/11/19 - 23:26:10  Evento:  reconheceu cadastrar
+25/11/19 - 23:26:10  Evento:  Cadastrando no CMM...
+25/11/19 - 23:26:10  Evento:  ('nome vindo banco', u'Daia Valentina')
+25/11/19 - 23:26:10  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 23:26:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 23:26:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 23:26:12  Evento:  ('nome obtido do banco', 'Daia Valentina')
+25/11/19 - 23:26:12  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 23:26:12  Evento:  Condominio LagoSul IP 172.19.1.251 Daia Valentina Ap 12 37
+25/11/19 - 23:26:12  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 23:26:12  Evento:  ok
+25/11/19 - 23:26:12  Evento:  ('Enviado evento pelo buffer', '23:26:12')
+25/11/19 - 23:26:12  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 23:26:12  Evento:  ('Enviado evento pelo buffer', '23:26:12')
+25/11/19 - 23:27:13  Evento:  Conectado com: 127.0.0.1:58988
+25/11/19 - 23:27:13  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:47479324')
+25/11/19 - 23:27:13  Evento:  reconheceu cadastrar
+25/11/19 - 23:27:13  Evento:  Cadastrando no CMM...
+25/11/19 - 23:27:13  Evento:  ('nome vindo banco', u'desirre')
+25/11/19 - 23:27:13  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 23:27:13  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 23:27:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 23:27:17  Evento:  ('nome obtido do banco', 'desirre')
+25/11/19 - 23:27:17  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 23:27:17  Evento:  Condominio LagoSul IP 172.19.1.251 desirre Ap 12 37
+25/11/19 - 23:27:17  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 23:27:17  Evento:  ok
+25/11/19 - 23:27:17  Evento:  ('Enviado evento pelo buffer', '23:27:17')
+25/11/19 - 23:27:17  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 23:27:17  Evento:  ('Enviado evento pelo buffer', '23:27:17')
+25/11/19 - 23:30:42  Evento:  Conectado com: 127.0.0.1:59162
+25/11/19 - 23:30:42  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:84756831')
+25/11/19 - 23:30:42  Evento:  reconheceu cadastrar
+25/11/19 - 23:30:42  Evento:  Cadastrando no CMM...
+25/11/19 - 23:30:42  Evento:  ('nome vindo banco', u'Mariana Amorin')
+25/11/19 - 23:30:42  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 23:30:42  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 23:30:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 23:30:43  Evento:  ('nome obtido do banco', 'Mariana Amorin')
+25/11/19 - 23:30:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 23:30:43  Evento:  Condominio LagoSul IP 172.19.1.251 Mariana Amorin Ap 12 37
+25/11/19 - 23:30:43  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 23:30:43  Evento:  ok
+25/11/19 - 23:30:43  Evento:  ('Enviado evento pelo buffer', '23:30:43')
+25/11/19 - 23:30:43  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 23:30:43  Evento:  ('Enviado evento pelo buffer', '23:30:43')
+25/11/19 - 23:31:42  Evento:  Conectado com: 127.0.0.1:59220
+25/11/19 - 23:31:42  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:44993213')
+25/11/19 - 23:31:42  Evento:  reconheceu cadastrar
+25/11/19 - 23:31:42  Evento:  Cadastrando no CMM...
+25/11/19 - 23:31:42  Evento:  ('nome vindo banco', u'Marilia - Mae Cecilia')
+25/11/19 - 23:31:42  Evento:  ('LagoSul', '172.19.1.251')
+25/11/19 - 23:31:42  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+25/11/19 - 23:31:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+25/11/19 - 23:31:43  Evento:  ('nome obtido do banco', 'Marilia - Mae Cecilia')
+25/11/19 - 23:31:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+25/11/19 - 23:31:43  Evento:  Condominio LagoSul IP 172.19.1.251 Marilia - Mae Cecilia Ap 12 37
+25/11/19 - 23:31:43  Evento:  Enviando item atraves do buffer para o cliente...
+25/11/19 - 23:31:43  Evento:  ok
+25/11/19 - 23:31:43  Evento:  ('Enviado evento pelo buffer', '23:31:43')
+25/11/19 - 23:31:43  Evento:  Atualizado campo 'enviado' para 1
+25/11/19 - 23:31:43  Evento:  ('Enviado evento pelo buffer', '23:31:43')
+26/11/19 - 00:05:30  Evento:  Conectado com: 127.0.0.1:60850
+26/11/19 - 00:05:30  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:22423318')
+26/11/19 - 00:05:30  Evento:  reconheceu cadastrar
+26/11/19 - 00:05:30  Evento:  Cadastrando no CMM...
+26/11/19 - 00:05:30  Evento:  ('nome vindo banco', u'Thays HENRIQUE')
+26/11/19 - 00:05:30  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:05:30  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:05:31  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:05:31  Evento:  ('nome obtido do banco', 'Thays HENRIQUE')
+26/11/19 - 00:05:31  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:05:31  Evento:  Condominio LagoSul IP 172.19.1.251 Thays HENRIQUE Ap 12 37
+26/11/19 - 00:05:31  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:05:32  Evento:  ok
+26/11/19 - 00:05:32  Evento:  ('Enviado evento pelo buffer', '00:05:31')
+26/11/19 - 00:05:32  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:05:32  Evento:  ('Enviado evento pelo buffer', '00:05:31')
+26/11/19 - 00:07:26  Evento:  Conectado com: 127.0.0.1:60952
+26/11/19 - 00:07:26  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:17432032')
+26/11/19 - 00:07:26  Evento:  reconheceu cadastrar
+26/11/19 - 00:07:26  Evento:  Cadastrando no CMM...
+26/11/19 - 00:07:26  Evento:  ('nome vindo banco', u'Amanda Palomero')
+26/11/19 - 00:07:26  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:07:26  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:07:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:07:27  Evento:  ('nome obtido do banco', 'Amanda Palomero')
+26/11/19 - 00:07:27  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:07:27  Evento:  Condominio LagoSul IP 172.19.1.251 Amanda Palomero Ap 12 37
+26/11/19 - 00:07:27  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:07:27  Evento:  ok
+26/11/19 - 00:07:27  Evento:  ('Enviado evento pelo buffer', '00:07:27')
+26/11/19 - 00:07:27  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:07:27  Evento:  ('Enviado evento pelo buffer', '00:07:27')
+26/11/19 - 00:09:08  Evento:  Conectado com: 127.0.0.1:32814
+26/11/19 - 00:09:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23222109')
+26/11/19 - 00:09:08  Evento:  reconheceu cadastrar
+26/11/19 - 00:09:08  Evento:  Cadastrando no CMM...
+26/11/19 - 00:09:08  Evento:  ('nome vindo banco', u'Fabi Barbara')
+26/11/19 - 00:09:08  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:09:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:09:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:09:12  Evento:  ('nome obtido do banco', 'Fabi Barbara')
+26/11/19 - 00:09:12  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:09:12  Evento:  Condominio LagoSul IP 172.19.1.251 Fabi Barbara Ap 12 37
+26/11/19 - 00:09:12  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:09:12  Evento:  ok
+26/11/19 - 00:09:12  Evento:  ('Enviado evento pelo buffer', '00:09:12')
+26/11/19 - 00:09:12  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:09:12  Evento:  ('Enviado evento pelo buffer', '00:09:12')
+26/11/19 - 00:10:45  Evento:  Conectado com: 127.0.0.1:32900
+26/11/19 - 00:10:45  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:14616549')
+26/11/19 - 00:10:45  Evento:  reconheceu cadastrar
+26/11/19 - 00:10:45  Evento:  Cadastrando no CMM...
+26/11/19 - 00:10:45  Evento:  ('nome vindo banco', u'Giedren Leila')
+26/11/19 - 00:10:45  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:10:45  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:10:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:10:47  Evento:  ('nome obtido do banco', 'Giedren Leila')
+26/11/19 - 00:10:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:10:47  Evento:  Condominio LagoSul IP 172.19.1.251 Giedren Leila Ap 12 37
+26/11/19 - 00:10:47  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:10:47  Evento:  ok
+26/11/19 - 00:10:47  Evento:  ('Enviado evento pelo buffer', '00:10:47')
+26/11/19 - 00:10:47  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:10:47  Evento:  ('Enviado evento pelo buffer', '00:10:47')
+26/11/19 - 00:17:09  Evento:  Conectado com: 127.0.0.1:33218
+26/11/19 - 00:17:09  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:48957627')
+26/11/19 - 00:17:09  Evento:  reconheceu cadastrar
+26/11/19 - 00:17:09  Evento:  Cadastrando no CMM...
+26/11/19 - 00:17:09  Evento:  ('nome vindo banco', u'Simone Firma')
+26/11/19 - 00:17:09  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:17:09  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:17:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:17:13  Evento:  ('nome obtido do banco', 'Simone Firma')
+26/11/19 - 00:17:13  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:17:13  Evento:  Condominio LagoSul IP 172.19.1.251 Simone Firma Ap 12 37
+26/11/19 - 00:17:13  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:17:13  Evento:  ok
+26/11/19 - 00:17:13  Evento:  ('Enviado evento pelo buffer', '00:17:13')
+26/11/19 - 00:17:13  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:17:13  Evento:  ('Enviado evento pelo buffer', '00:17:13')
+26/11/19 - 00:17:41  Evento:  Conectado com: 127.0.0.1:33252
+26/11/19 - 00:17:41  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:55807378')
+26/11/19 - 00:17:41  Evento:  reconheceu cadastrar
+26/11/19 - 00:17:41  Evento:  Cadastrando no CMM...
+26/11/19 - 00:17:41  Evento:  ('nome vindo banco', u'Helena Guta')
+26/11/19 - 00:17:41  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:17:41  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:17:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:17:43  Evento:  ('nome obtido do banco', 'Helena Guta')
+26/11/19 - 00:17:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:17:43  Evento:  Condominio LagoSul IP 172.19.1.251 Helena Guta Ap 12 37
+26/11/19 - 00:17:43  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:17:43  Evento:  ok
+26/11/19 - 00:17:43  Evento:  ('Enviado evento pelo buffer', '00:17:43')
+26/11/19 - 00:17:43  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:17:43  Evento:  ('Enviado evento pelo buffer', '00:17:43')
+26/11/19 - 00:18:44  Evento:  Conectado com: 127.0.0.1:33314
+26/11/19 - 00:18:44  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:38147738')
+26/11/19 - 00:18:44  Evento:  reconheceu cadastrar
+26/11/19 - 00:18:44  Evento:  Cadastrando no CMM...
+26/11/19 - 00:18:44  Evento:  ('nome vindo banco', u'Helena Guta')
+26/11/19 - 00:18:44  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:18:44  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:18:48  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:18:48  Evento:  ('nome obtido do banco', 'Helena Guta')
+26/11/19 - 00:18:48  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:18:48  Evento:  Condominio LagoSul IP 172.19.1.251 Helena Guta Ap 12 37
+26/11/19 - 00:18:48  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:18:49  Evento:  ok
+26/11/19 - 00:18:49  Evento:  ('Enviado evento pelo buffer', '00:18:48')
+26/11/19 - 00:18:49  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:18:49  Evento:  ('Enviado evento pelo buffer', '00:18:48')
+26/11/19 - 00:20:42  Evento:  Conectado com: 127.0.0.1:33416
+26/11/19 - 00:20:42  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:61548332')
+26/11/19 - 00:20:42  Evento:  reconheceu cadastrar
+26/11/19 - 00:20:42  Evento:  Cadastrando no CMM...
+26/11/19 - 00:20:42  Evento:  ('nome vindo banco', u'Tia Cidinha')
+26/11/19 - 00:20:42  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:20:42  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:20:44  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:20:44  Evento:  ('nome obtido do banco', 'Tia Cidinha')
+26/11/19 - 00:20:44  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:20:44  Evento:  Condominio LagoSul IP 172.19.1.251 Tia Cidinha Ap 12 37
+26/11/19 - 00:20:44  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:20:44  Evento:  ok
+26/11/19 - 00:20:44  Evento:  ('Enviado evento pelo buffer', '00:20:44')
+26/11/19 - 00:20:44  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:20:44  Evento:  ('Enviado evento pelo buffer', '00:20:44')
+26/11/19 - 00:21:10  Evento:  Conectado com: 127.0.0.1:33450
+26/11/19 - 00:21:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23377972')
+26/11/19 - 00:21:10  Evento:  reconheceu cadastrar
+26/11/19 - 00:21:10  Evento:  Cadastrando no CMM...
+26/11/19 - 00:21:10  Evento:  ('nome vindo banco', u'Tio Beto')
+26/11/19 - 00:21:10  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:21:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:21:14  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:21:14  Evento:  ('nome obtido do banco', 'Tio Beto')
+26/11/19 - 00:21:14  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:21:14  Evento:  Condominio LagoSul IP 172.19.1.251 Tio Beto Ap 12 37
+26/11/19 - 00:21:14  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:21:14  Evento:  ok
+26/11/19 - 00:21:14  Evento:  ('Enviado evento pelo buffer', '00:21:14')
+26/11/19 - 00:21:14  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:21:14  Evento:  ('Enviado evento pelo buffer', '00:21:14')
+26/11/19 - 00:22:25  Evento:  Conectado com: 127.0.0.1:33520
+26/11/19 - 00:22:25  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:11285983')
+26/11/19 - 00:22:25  Evento:  reconheceu cadastrar
+26/11/19 - 00:22:25  Evento:  Cadastrando no CMM...
+26/11/19 - 00:22:25  Evento:  ('nome vindo banco', u'Carol')
+26/11/19 - 00:22:25  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:22:25  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:22:29  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:22:29  Evento:  ('nome obtido do banco', 'Carol')
+26/11/19 - 00:22:29  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:22:29  Evento:  Condominio LagoSul IP 172.19.1.251 Carol Ap 12 37
+26/11/19 - 00:22:29  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:22:29  Evento:  ok
+26/11/19 - 00:22:29  Evento:  ('Enviado evento pelo buffer', '00:22:29')
+26/11/19 - 00:22:29  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:22:29  Evento:  ('Enviado evento pelo buffer', '00:22:29')
+26/11/19 - 00:23:15  Evento:  Conectado com: 127.0.0.1:33570
+26/11/19 - 00:23:15  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:47646114')
+26/11/19 - 00:23:15  Evento:  reconheceu cadastrar
+26/11/19 - 00:23:15  Evento:  Cadastrando no CMM...
+26/11/19 - 00:23:15  Evento:  ('nome vindo banco', u'Pity')
+26/11/19 - 00:23:15  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:23:15  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:23:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:23:19  Evento:  ('nome obtido do banco', 'Pity')
+26/11/19 - 00:23:19  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:23:19  Evento:  Condominio LagoSul IP 172.19.1.251 Pity Ap 12 37
+26/11/19 - 00:23:19  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:23:19  Evento:  ok
+26/11/19 - 00:23:19  Evento:  ('Enviado evento pelo buffer', '00:23:19')
+26/11/19 - 00:23:19  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:23:19  Evento:  ('Enviado evento pelo buffer', '00:23:19')
+26/11/19 - 00:23:43  Evento:  Conectado com: 127.0.0.1:33600
+26/11/19 - 00:23:43  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59700968')
+26/11/19 - 00:23:43  Evento:  reconheceu cadastrar
+26/11/19 - 00:23:43  Evento:  Cadastrando no CMM...
+26/11/19 - 00:23:43  Evento:  ('nome vindo banco', u'Renata Handem')
+26/11/19 - 00:23:43  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:23:43  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:23:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:23:45  Evento:  ('nome obtido do banco', 'Renata Handem')
+26/11/19 - 00:23:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:23:45  Evento:  Condominio LagoSul IP 172.19.1.251 Renata Handem Ap 12 37
+26/11/19 - 00:23:45  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:23:45  Evento:  ok
+26/11/19 - 00:23:45  Evento:  ('Enviado evento pelo buffer', '00:23:45')
+26/11/19 - 00:23:45  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:23:45  Evento:  ('Enviado evento pelo buffer', '00:23:45')
+26/11/19 - 00:25:37  Evento:  Conectado com: 127.0.0.1:33702
+26/11/19 - 00:25:37  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:20467806')
+26/11/19 - 00:25:37  Evento:  reconheceu cadastrar
+26/11/19 - 00:25:37  Evento:  Cadastrando no CMM...
+26/11/19 - 00:25:37  Evento:  ('nome vindo banco', u'Mauro Facul')
+26/11/19 - 00:25:37  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:25:37  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:25:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:25:40  Evento:  ('nome obtido do banco', 'Mauro Facul')
+26/11/19 - 00:25:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:25:40  Evento:  Condominio LagoSul IP 172.19.1.251 Mauro Facul Ap 12 37
+26/11/19 - 00:25:40  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:25:40  Evento:  ok
+26/11/19 - 00:25:40  Evento:  ('Enviado evento pelo buffer', '00:25:40')
+26/11/19 - 00:25:40  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:25:40  Evento:  ('Enviado evento pelo buffer', '00:25:40')
+26/11/19 - 00:26:31  Evento:  Conectado com: 127.0.0.1:33756
+26/11/19 - 00:26:31  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:97837289')
+26/11/19 - 00:26:31  Evento:  reconheceu cadastrar
+26/11/19 - 00:26:31  Evento:  Cadastrando no CMM...
+26/11/19 - 00:26:31  Evento:  ('nome vindo banco', u'Biquinho')
+26/11/19 - 00:26:31  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:26:31  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:26:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:26:35  Evento:  ('nome obtido do banco', 'Biquinho')
+26/11/19 - 00:26:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:26:35  Evento:  Condominio LagoSul IP 172.19.1.251 Biquinho Ap 12 37
+26/11/19 - 00:26:35  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:26:35  Evento:  ok
+26/11/19 - 00:26:35  Evento:  ('Enviado evento pelo buffer', '00:26:35')
+26/11/19 - 00:26:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:26:35  Evento:  ('Enviado evento pelo buffer', '00:26:35')
+26/11/19 - 00:28:23  Evento:  Conectado com: 127.0.0.1:33854
+26/11/19 - 00:28:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18535296')
+26/11/19 - 00:28:23  Evento:  reconheceu cadastrar
+26/11/19 - 00:28:23  Evento:  Cadastrando no CMM...
+26/11/19 - 00:28:23  Evento:  ('nome vindo banco', u'Janaina')
+26/11/19 - 00:28:23  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:28:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:28:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:28:25  Evento:  ('nome obtido do banco', 'Janaina')
+26/11/19 - 00:28:25  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:28:25  Evento:  Condominio LagoSul IP 172.19.1.251 Janaina Ap 12 37
+26/11/19 - 00:28:25  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:28:25  Evento:  ok
+26/11/19 - 00:28:25  Evento:  ('Enviado evento pelo buffer', '00:28:25')
+26/11/19 - 00:28:25  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:28:25  Evento:  ('Enviado evento pelo buffer', '00:28:25')
+26/11/19 - 00:30:19  Evento:  Conectado com: 127.0.0.1:33956
+26/11/19 - 00:30:19  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:95982266')
+26/11/19 - 00:30:19  Evento:  reconheceu cadastrar
+26/11/19 - 00:30:19  Evento:  Cadastrando no CMM...
+26/11/19 - 00:30:19  Evento:  ('nome vindo banco', u'Tia Eliana')
+26/11/19 - 00:30:19  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:30:19  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:30:21  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:30:21  Evento:  ('nome obtido do banco', 'Tia Eliana')
+26/11/19 - 00:30:21  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:30:21  Evento:  Condominio LagoSul IP 172.19.1.251 Tia Eliana Ap 12 37
+26/11/19 - 00:30:21  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:30:21  Evento:  ok
+26/11/19 - 00:30:21  Evento:  ('Enviado evento pelo buffer', '00:30:21')
+26/11/19 - 00:30:21  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:30:21  Evento:  ('Enviado evento pelo buffer', '00:30:21')
+26/11/19 - 00:31:23  Evento:  Conectado com: 127.0.0.1:34018
+26/11/19 - 00:31:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:12406066')
+26/11/19 - 00:31:23  Evento:  reconheceu cadastrar
+26/11/19 - 00:31:23  Evento:  Cadastrando no CMM...
+26/11/19 - 00:31:23  Evento:  ('nome vindo banco', u'Tia Cirle')
+26/11/19 - 00:31:23  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:31:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:31:26  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:31:26  Evento:  ('nome obtido do banco', 'Tia Cirle')
+26/11/19 - 00:31:26  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:31:26  Evento:  Condominio LagoSul IP 172.19.1.251 Tia Cirle Ap 12 37
+26/11/19 - 00:31:26  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:31:26  Evento:  ok
+26/11/19 - 00:31:26  Evento:  ('Enviado evento pelo buffer', '00:31:26')
+26/11/19 - 00:31:26  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:31:26  Evento:  ('Enviado evento pelo buffer', '00:31:26')
+26/11/19 - 00:33:32  Evento:  Conectado com: 127.0.0.1:34132
+26/11/19 - 00:33:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:17967395')
+26/11/19 - 00:33:32  Evento:  reconheceu cadastrar
+26/11/19 - 00:33:32  Evento:  Cadastrando no CMM...
+26/11/19 - 00:33:32  Evento:  ('nome vindo banco', u'Claudia LIANDRO')
+26/11/19 - 00:33:32  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:33:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:33:36  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:33:36  Evento:  ('nome obtido do banco', 'Claudia LIANDRO')
+26/11/19 - 00:33:36  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:33:36  Evento:  Condominio LagoSul IP 172.19.1.251 Claudia LIANDRO Ap 12 37
+26/11/19 - 00:33:36  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:33:36  Evento:  ok
+26/11/19 - 00:33:36  Evento:  ('Enviado evento pelo buffer', '00:33:36')
+26/11/19 - 00:33:36  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:33:36  Evento:  ('Enviado evento pelo buffer', '00:33:36')
+26/11/19 - 00:35:27  Evento:  Conectado com: 127.0.0.1:34234
+26/11/19 - 00:35:27  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:16893382')
+26/11/19 - 00:35:27  Evento:  reconheceu cadastrar
+26/11/19 - 00:35:27  Evento:  Cadastrando no CMM...
+26/11/19 - 00:35:27  Evento:  ('nome vindo banco', u'Tia Cafe')
+26/11/19 - 00:35:27  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:35:27  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:35:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:35:32  Evento:  ('nome obtido do banco', 'Tia Cafe')
+26/11/19 - 00:35:32  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:35:32  Evento:  Condominio LagoSul IP 172.19.1.251 Tia Cafe Ap 12 37
+26/11/19 - 00:35:32  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:35:32  Evento:  ok
+26/11/19 - 00:35:32  Evento:  ('Enviado evento pelo buffer', '00:35:32')
+26/11/19 - 00:35:32  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:35:32  Evento:  ('Enviado evento pelo buffer', '00:35:32')
+26/11/19 - 00:37:26  Evento:  Conectado com: 127.0.0.1:34336
+26/11/19 - 00:37:26  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:62670872')
+26/11/19 - 00:37:26  Evento:  reconheceu cadastrar
+26/11/19 - 00:37:26  Evento:  Cadastrando no CMM...
+26/11/19 - 00:37:26  Evento:  ('nome vindo banco', u'Ana Claudia')
+26/11/19 - 00:37:26  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:37:26  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:37:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:37:27  Evento:  ('nome obtido do banco', 'Ana Claudia')
+26/11/19 - 00:37:27  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:37:27  Evento:  Condominio LagoSul IP 172.19.1.251 Ana Claudia Ap 12 37
+26/11/19 - 00:37:27  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:37:27  Evento:  ok
+26/11/19 - 00:37:27  Evento:  ('Enviado evento pelo buffer', '00:37:27')
+26/11/19 - 00:37:27  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:37:27  Evento:  ('Enviado evento pelo buffer', '00:37:27')
+26/11/19 - 00:38:36  Evento:  Conectado com: 127.0.0.1:34402
+26/11/19 - 00:38:36  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:13158758')
+26/11/19 - 00:38:36  Evento:  reconheceu cadastrar
+26/11/19 - 00:38:36  Evento:  Cadastrando no CMM...
+26/11/19 - 00:38:36  Evento:  ('nome vindo banco', u'Fabinho Tia INE')
+26/11/19 - 00:38:36  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:38:36  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:38:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:38:37  Evento:  ('nome obtido do banco', 'Fabinho Tia INE')
+26/11/19 - 00:38:37  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:38:37  Evento:  Condominio LagoSul IP 172.19.1.251 Fabinho Tia INE Ap 12 37
+26/11/19 - 00:38:37  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:38:37  Evento:  ok
+26/11/19 - 00:38:37  Evento:  ('Enviado evento pelo buffer', '00:38:37')
+26/11/19 - 00:38:37  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:38:37  Evento:  ('Enviado evento pelo buffer', '00:38:37')
+26/11/19 - 00:39:41  Evento:  Conectado com: 127.0.0.1:34464
+26/11/19 - 00:39:41  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:85951700')
+26/11/19 - 00:39:41  Evento:  reconheceu cadastrar
+26/11/19 - 00:39:41  Evento:  Cadastrando no CMM...
+26/11/19 - 00:39:41  Evento:  ('nome vindo banco', u'Fernanda')
+26/11/19 - 00:39:41  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:39:41  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:39:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:39:42  Evento:  ('nome obtido do banco', 'Fernanda')
+26/11/19 - 00:39:42  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:39:42  Evento:  Condominio LagoSul IP 172.19.1.251 Fernanda Ap 12 37
+26/11/19 - 00:39:42  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:39:42  Evento:  ok
+26/11/19 - 00:39:42  Evento:  ('Enviado evento pelo buffer', '00:39:42')
+26/11/19 - 00:39:42  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:39:42  Evento:  ('Enviado evento pelo buffer', '00:39:42')
+26/11/19 - 00:40:51  Evento:  Conectado com: 127.0.0.1:34530
+26/11/19 - 00:40:51  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:82978100')
+26/11/19 - 00:40:51  Evento:  reconheceu cadastrar
+26/11/19 - 00:40:51  Evento:  Cadastrando no CMM...
+26/11/19 - 00:40:51  Evento:  ('nome vindo banco', u'Adriana Montilha')
+26/11/19 - 00:40:51  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 00:40:51  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 00:40:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 00:40:52  Evento:  ('nome obtido do banco', 'Adriana Montilha')
+26/11/19 - 00:40:52  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 00:40:52  Evento:  Condominio LagoSul IP 172.19.1.251 Adriana Montilha Ap 12 37
+26/11/19 - 00:40:52  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 00:40:53  Evento:  ok
+26/11/19 - 00:40:53  Evento:  ('Enviado evento pelo buffer', '00:40:52')
+26/11/19 - 00:40:53  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 00:40:53  Evento:  ('Enviado evento pelo buffer', '00:40:52')
+26/11/19 - 04:48:40  Evento:  Conectado com: 127.0.0.1:46422
+26/11/19 - 04:48:40  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:92964140')
+26/11/19 - 04:48:40  Evento:  reconheceu cadastrar
+26/11/19 - 04:48:40  Evento:  Cadastrando no CMM...
+26/11/19 - 04:48:40  Evento:  ('nome vindo banco', u'Paula Della Barba Perreira')
+26/11/19 - 04:48:40  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 04:48:40  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 04:48:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 04:48:43  Evento:  ('nome obtido do banco', 'Paula Della Barba Perreira')
+26/11/19 - 04:48:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 04:48:43  Evento:  Condominio LagoSul IP 172.19.1.251 Paula Della Barba Perreira Ap 08 23
+26/11/19 - 04:48:43  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 04:48:43  Evento:  ok
+26/11/19 - 04:48:43  Evento:  ('Enviado evento pelo buffer', '04:48:43')
+26/11/19 - 04:48:43  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 04:48:43  Evento:  ('Enviado evento pelo buffer', '04:48:43')
+26/11/19 - 07:15:22  Evento:  Conectado com: 127.0.0.1:53460
+26/11/19 - 07:15:22  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:29218401')
+26/11/19 - 07:15:22  Evento:  reconheceu cadastrar
+26/11/19 - 07:15:22  Evento:  Cadastrando no CMM...
+26/11/19 - 07:15:22  Evento:  ('nome vindo banco', u'Isadora Garcom X')
+26/11/19 - 07:15:22  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:15:22  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:15:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:15:22  Evento:  ('nome obtido do banco', 'Isadora Garcom X')
+26/11/19 - 07:15:22  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:15:22  Evento:  Condominio LagoSul IP 172.19.1.251 Isadora Garcom X Ap 12 37
+26/11/19 - 07:15:22  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:15:22  Evento:  ok
+26/11/19 - 07:15:22  Evento:  ('Enviado evento pelo buffer', '07:15:22')
+26/11/19 - 07:15:22  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:15:22  Evento:  ('Enviado evento pelo buffer', '07:15:22')
+26/11/19 - 07:16:19  Evento:  Conectado com: 127.0.0.1:53518
+26/11/19 - 07:16:19  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:67411492')
+26/11/19 - 07:16:19  Evento:  reconheceu cadastrar
+26/11/19 - 07:16:19  Evento:  Cadastrando no CMM...
+26/11/19 - 07:16:19  Evento:  ('nome vindo banco', u'Alexandra X')
+26/11/19 - 07:16:19  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:16:19  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:16:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:16:23  Evento:  ('nome obtido do banco', 'Alexandra X')
+26/11/19 - 07:16:23  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:16:23  Evento:  Condominio LagoSul IP 172.19.1.251 Alexandra X Ap 12 37
+26/11/19 - 07:16:23  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:16:23  Evento:  ok
+26/11/19 - 07:16:23  Evento:  ('Enviado evento pelo buffer', '07:16:23')
+26/11/19 - 07:16:23  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:16:23  Evento:  ('Enviado evento pelo buffer', '07:16:23')
+26/11/19 - 07:16:53  Evento:  Conectado com: 127.0.0.1:53556
+26/11/19 - 07:16:53  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:66221973')
+26/11/19 - 07:16:53  Evento:  reconheceu cadastrar
+26/11/19 - 07:16:53  Evento:  Cadastrando no CMM...
+26/11/19 - 07:16:53  Evento:  ('nome vindo banco', u'Larissa Manuela')
+26/11/19 - 07:16:53  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:16:53  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:16:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:16:58  Evento:  ('nome obtido do banco', 'Larissa Manuela')
+26/11/19 - 07:16:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:16:58  Evento:  Condominio LagoSul IP 172.19.1.251 Larissa Manuela Ap 12 37
+26/11/19 - 07:16:58  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:16:58  Evento:  ok
+26/11/19 - 07:16:58  Evento:  ('Enviado evento pelo buffer', '07:16:58')
+26/11/19 - 07:16:58  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:16:58  Evento:  ('Enviado evento pelo buffer', '07:16:58')
+26/11/19 - 07:17:54  Evento:  Conectado com: 127.0.0.1:53614
+26/11/19 - 07:17:54  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23443677')
+26/11/19 - 07:17:54  Evento:  reconheceu cadastrar
+26/11/19 - 07:17:54  Evento:  Cadastrando no CMM...
+26/11/19 - 07:17:54  Evento:  ('nome vindo banco', u'Simone Cozinha')
+26/11/19 - 07:17:54  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:17:54  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:17:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:17:58  Evento:  ('nome obtido do banco', 'Simone Cozinha')
+26/11/19 - 07:17:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:17:58  Evento:  Condominio LagoSul IP 172.19.1.251 Simone Cozinha Ap 12 37
+26/11/19 - 07:17:58  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:17:58  Evento:  ok
+26/11/19 - 07:17:58  Evento:  ('Enviado evento pelo buffer', '07:17:58')
+26/11/19 - 07:17:58  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:17:58  Evento:  ('Enviado evento pelo buffer', '07:17:58')
+26/11/19 - 07:19:57  Evento:  Conectado com: 127.0.0.1:53720
+26/11/19 - 07:19:57  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:97815135')
+26/11/19 - 07:19:57  Evento:  reconheceu cadastrar
+26/11/19 - 07:19:57  Evento:  Cadastrando no CMM...
+26/11/19 - 07:19:57  Evento:  ('nome vindo banco', u'Vivi Oliveira')
+26/11/19 - 07:19:57  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:19:57  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:19:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:19:58  Evento:  ('nome obtido do banco', 'Vivi Oliveira')
+26/11/19 - 07:19:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:19:58  Evento:  Condominio LagoSul IP 172.19.1.251 Vivi Oliveira Ap 12 37
+26/11/19 - 07:19:58  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:19:58  Evento:  ok
+26/11/19 - 07:19:58  Evento:  ('Enviado evento pelo buffer', '07:19:58')
+26/11/19 - 07:19:58  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:19:58  Evento:  ('Enviado evento pelo buffer', '07:19:58')
+26/11/19 - 07:23:40  Evento:  Conectado com: 127.0.0.1:53910
+26/11/19 - 07:23:40  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:70789700')
+26/11/19 - 07:23:40  Evento:  reconheceu cadastrar
+26/11/19 - 07:23:40  Evento:  Cadastrando no CMM...
+26/11/19 - 07:23:40  Evento:  ('nome vindo banco', u'Filmagem Welber')
+26/11/19 - 07:23:40  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:23:40  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:23:44  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:23:44  Evento:  ('nome obtido do banco', 'Filmagem Welber')
+26/11/19 - 07:23:44  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:23:44  Evento:  Condominio LagoSul IP 172.19.1.251 Filmagem Welber Ap 12 37
+26/11/19 - 07:23:44  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:23:44  Evento:  ok
+26/11/19 - 07:23:44  Evento:  ('Enviado evento pelo buffer', '07:23:44')
+26/11/19 - 07:23:44  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:23:44  Evento:  ('Enviado evento pelo buffer', '07:23:44')
+26/11/19 - 07:51:23  Evento:  Conectado com: 127.0.0.1:55248
+26/11/19 - 07:51:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:10641140')
+26/11/19 - 07:51:23  Evento:  reconheceu cadastrar
+26/11/19 - 07:51:23  Evento:  Cadastrando no CMM...
+26/11/19 - 07:51:23  Evento:  ('nome vindo banco', u'Amanda - Ra')
+26/11/19 - 07:51:23  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 07:51:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 07:51:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 07:51:27  Evento:  ('nome obtido do banco', 'Amanda - Ra')
+26/11/19 - 07:51:27  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 07:51:27  Evento:  Condominio LagoSul IP 172.19.1.251 Amanda - Ra Ap 17 37
+26/11/19 - 07:51:27  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 07:51:27  Evento:  ok
+26/11/19 - 07:51:27  Evento:  ('Enviado evento pelo buffer', '07:51:27')
+26/11/19 - 07:51:27  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 07:51:27  Evento:  ('Enviado evento pelo buffer', '07:51:27')
+26/11/19 - 08:00:39  Evento:  Conectado com: 127.0.0.1:55702
+26/11/19 - 08:00:39  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:75218596')
+26/11/19 - 08:00:39  Evento:  reconheceu cadastrar
+26/11/19 - 08:00:39  Evento:  Cadastrando no CMM...
+26/11/19 - 08:00:39  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+26/11/19 - 08:00:39  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:00:39  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:00:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:00:43  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+26/11/19 - 08:00:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:00:43  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+26/11/19 - 08:00:43  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:00:43  Evento:  ok
+26/11/19 - 08:00:43  Evento:  ('Enviado evento pelo buffer', '08:00:43')
+26/11/19 - 08:00:43  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:00:43  Evento:  ('Enviado evento pelo buffer', '08:00:43')
+26/11/19 - 08:00:56  Evento:  Conectado com: 127.0.0.1:55724
+26/11/19 - 08:00:56  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:97261898')
+26/11/19 - 08:00:56  Evento:  reconheceu cadastrar
+26/11/19 - 08:00:56  Evento:  Cadastrando no CMM...
+26/11/19 - 08:00:56  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+26/11/19 - 08:00:56  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:00:56  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:00:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:00:58  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+26/11/19 - 08:00:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:00:58  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+26/11/19 - 08:00:58  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:00:58  Evento:  ok
+26/11/19 - 08:00:58  Evento:  ('Enviado evento pelo buffer', '08:00:58')
+26/11/19 - 08:00:58  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:00:58  Evento:  ('Enviado evento pelo buffer', '08:00:58')
+26/11/19 - 08:15:33  Evento:  Conectado com: 127.0.0.1:56434
+26/11/19 - 08:15:33  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:49138219')
+26/11/19 - 08:15:33  Evento:  reconheceu cadastrar
+26/11/19 - 08:15:33  Evento:  Cadastrando no CMM...
+26/11/19 - 08:15:33  Evento:  ('nome vindo banco', u'Jose Eduardo Cogo Castanho')
+26/11/19 - 08:15:33  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:15:33  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:15:34  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:15:34  Evento:  ('nome obtido do banco', 'Jose Eduardo Cogo Castanho')
+26/11/19 - 08:15:34  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:15:34  Evento:  Condominio LagoSul IP 172.19.1.251 Jose Eduardo Cogo Castanho Ap 07 24
+26/11/19 - 08:15:34  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:15:35  Evento:  ok
+26/11/19 - 08:15:35  Evento:  ('Enviado evento pelo buffer', '08:15:34')
+26/11/19 - 08:15:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:15:35  Evento:  ('Enviado evento pelo buffer', '08:15:34')
+26/11/19 - 08:20:14  Evento:  Conectado com: 127.0.0.1:56668
+26/11/19 - 08:20:14  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:84825717')
+26/11/19 - 08:20:14  Evento:  reconheceu cadastrar
+26/11/19 - 08:20:14  Evento:  Cadastrando no CMM...
+26/11/19 - 08:20:14  Evento:  ('nome vindo banco', u'Jose Eduardo Cogo Castanho')
+26/11/19 - 08:20:14  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:20:14  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:20:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:20:15  Evento:  ('nome obtido do banco', 'Jose Eduardo Cogo Castanho')
+26/11/19 - 08:20:15  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:20:15  Evento:  Condominio LagoSul IP 172.19.1.251 Jose Eduardo Cogo Castanho Ap 07 24
+26/11/19 - 08:20:15  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:20:15  Evento:  ok
+26/11/19 - 08:20:15  Evento:  ('Enviado evento pelo buffer', '08:20:15')
+26/11/19 - 08:20:15  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:20:15  Evento:  ('Enviado evento pelo buffer', '08:20:15')
+26/11/19 - 08:41:23  Evento:  Conectado com: 127.0.0.1:57694
+26/11/19 - 08:41:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:39289858')
+26/11/19 - 08:41:23  Evento:  reconheceu cadastrar
+26/11/19 - 08:41:23  Evento:  Cadastrando no CMM...
+26/11/19 - 08:41:23  Evento:  ('nome vindo banco', u'Lahis Ramos Gandara')
+26/11/19 - 08:41:23  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:41:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:41:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:41:27  Evento:  ('nome obtido do banco', 'Lahis Ramos Gandara')
+26/11/19 - 08:41:27  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:41:27  Evento:  Condominio LagoSul IP 172.19.1.251 Lahis Ramos Gandara Ap 13 22
+26/11/19 - 08:41:27  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:41:27  Evento:  ok
+26/11/19 - 08:41:27  Evento:  ('Enviado evento pelo buffer', '08:41:27')
+26/11/19 - 08:41:27  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:41:27  Evento:  ('Enviado evento pelo buffer', '08:41:27')
+26/11/19 - 08:41:28  Evento:  Conectado com: 127.0.0.1:57708
+26/11/19 - 08:41:28  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:77437265')
+26/11/19 - 08:41:28  Evento:  reconheceu cadastrar
+26/11/19 - 08:41:28  Evento:  Cadastrando no CMM...
+26/11/19 - 08:41:28  Evento:  ('nome vindo banco', u'Lahis Ramos Gandara')
+26/11/19 - 08:41:28  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:41:28  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:41:28  Evento:  Conectado com: 127.0.0.1:57714
+26/11/19 - 08:41:28  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:84061616')
+26/11/19 - 08:41:28  Evento:  reconheceu cadastrar
+26/11/19 - 08:41:28  Evento:  Cadastrando no CMM...
+26/11/19 - 08:41:28  Evento:  ('nome vindo banco', u'Lahis Ramos Gandara')
+26/11/19 - 08:41:28  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 08:41:28  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 08:41:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:41:32  Evento:  ('nome obtido do banco', 'Lahis Ramos Gandara')
+26/11/19 - 08:41:32  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:41:32  Evento:  Condominio LagoSul IP 172.19.1.251 Lahis Ramos Gandara Ap 13 22
+26/11/19 - 08:41:32  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:41:33  Evento:  ok
+26/11/19 - 08:41:33  Evento:  ('Enviado evento pelo buffer', '08:41:32')
+26/11/19 - 08:41:33  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:41:33  Evento:  ('Enviado evento pelo buffer', '08:41:32')
+26/11/19 - 08:41:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 08:41:38  Evento:  ('nome obtido do banco', 'Lahis Ramos Gandara')
+26/11/19 - 08:41:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 08:41:38  Evento:  Condominio LagoSul IP 172.19.1.251 Lahis Ramos Gandara Ap 13 22
+26/11/19 - 08:41:38  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 08:41:38  Evento:  ok
+26/11/19 - 08:41:38  Evento:  ('Enviado evento pelo buffer', '08:41:38')
+26/11/19 - 08:41:38  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 08:41:38  Evento:  ('Enviado evento pelo buffer', '08:41:38')
+26/11/19 - 09:15:29  Evento:  Conectado com: 127.0.0.1:59356
+26/11/19 - 09:15:29  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59611056')
+26/11/19 - 09:15:29  Evento:  reconheceu cadastrar
+26/11/19 - 09:15:29  Evento:  Cadastrando no CMM...
+26/11/19 - 09:15:29  Evento:  ('nome vindo banco', u'Davi iacovoni')
+26/11/19 - 09:15:29  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:15:29  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:15:31  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:15:31  Evento:  ('nome obtido do banco', 'Davi iacovoni')
+26/11/19 - 09:15:31  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:15:31  Evento:  Condominio LagoSul IP 172.19.1.251 Davi iacovoni Ap 28 22
+26/11/19 - 09:15:31  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:15:31  Evento:  ok
+26/11/19 - 09:15:31  Evento:  ('Enviado evento pelo buffer', '09:15:31')
+26/11/19 - 09:15:31  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:15:31  Evento:  ('Enviado evento pelo buffer', '09:15:31')
+26/11/19 - 09:39:48  Evento:  Conectado com: 127.0.0.1:60530
+26/11/19 - 09:39:48  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:55307909')
+26/11/19 - 09:39:48  Evento:  reconheceu cadastrar
+26/11/19 - 09:39:48  Evento:  Cadastrando no CMM...
+26/11/19 - 09:39:48  Evento:  ('nome vindo banco', u'Marco Antonio Marques De Olive')
+26/11/19 - 09:39:48  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:39:48  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:39:49  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:39:49  Evento:  ('nome obtido do banco', 'Marco Antonio Marques De Olive')
+26/11/19 - 09:39:49  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:39:49  Evento:  Condominio LagoSul IP 172.19.1.251 Marco Antonio Marques De Olive Ap 06 25
+26/11/19 - 09:39:49  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:39:49  Evento:  ok
+26/11/19 - 09:39:49  Evento:  ('Enviado evento pelo buffer', '09:39:49')
+26/11/19 - 09:39:49  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:39:49  Evento:  ('Enviado evento pelo buffer', '09:39:49')
+26/11/19 - 09:43:20  Evento:  Conectado com: 127.0.0.1:60712
+26/11/19 - 09:43:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23964284')
+26/11/19 - 09:43:20  Evento:  reconheceu cadastrar
+26/11/19 - 09:43:20  Evento:  Cadastrando no CMM...
+26/11/19 - 09:43:20  Evento:  ('nome vindo banco', u'Marco Antonio Marques De Olive')
+26/11/19 - 09:43:20  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:43:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:43:24  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:43:24  Evento:  ('nome obtido do banco', 'Marco Antonio Marques De Olive')
+26/11/19 - 09:43:24  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:43:24  Evento:  Condominio LagoSul IP 172.19.1.251 Marco Antonio Marques De Olive Ap 06 25
+26/11/19 - 09:43:24  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:43:25  Evento:  ok
+26/11/19 - 09:43:25  Evento:  ('Enviado evento pelo buffer', '09:43:24')
+26/11/19 - 09:43:25  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:43:25  Evento:  ('Enviado evento pelo buffer', '09:43:24')
+26/11/19 - 09:53:30  Evento:  Conectado com: 127.0.0.1:32974
+26/11/19 - 09:53:30  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:65992047')
+26/11/19 - 09:53:30  Evento:  reconheceu cadastrar
+26/11/19 - 09:53:30  Evento:  Cadastrando no CMM...
+26/11/19 - 09:53:30  Evento:  ('nome vindo banco', u'desirre')
+26/11/19 - 09:53:30  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:53:30  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:53:31  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:53:31  Evento:  ('nome obtido do banco', 'desirre')
+26/11/19 - 09:53:31  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:53:31  Evento:  Condominio LagoSul IP 172.19.1.251 desirre Ap 12 37
+26/11/19 - 09:53:31  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:53:31  Evento:  ok
+26/11/19 - 09:53:31  Evento:  ('Enviado evento pelo buffer', '09:53:31')
+26/11/19 - 09:53:31  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:53:31  Evento:  ('Enviado evento pelo buffer', '09:53:31')
+26/11/19 - 09:56:32  Evento:  Conectado com: 127.0.0.1:33132
+26/11/19 - 09:56:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:49398416')
+26/11/19 - 09:56:32  Evento:  reconheceu cadastrar
+26/11/19 - 09:56:32  Evento:  Cadastrando no CMM...
+26/11/19 - 09:56:32  Evento:  ('nome vindo banco', u'Guilherme Dezan')
+26/11/19 - 09:56:32  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:56:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:56:36  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:56:36  Evento:  ('nome obtido do banco', 'Guilherme Dezan')
+26/11/19 - 09:56:36  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:56:36  Evento:  Condominio LagoSul IP 172.19.1.251 Guilherme Dezan Ap 12 37
+26/11/19 - 09:56:36  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:56:36  Evento:  ok
+26/11/19 - 09:56:36  Evento:  ('Enviado evento pelo buffer', '09:56:36')
+26/11/19 - 09:56:36  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:56:36  Evento:  ('Enviado evento pelo buffer', '09:56:36')
+26/11/19 - 09:57:21  Evento:  Conectado com: 127.0.0.1:33178
+26/11/19 - 09:57:21  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:92057318')
+26/11/19 - 09:57:21  Evento:  reconheceu cadastrar
+26/11/19 - 09:57:21  Evento:  Cadastrando no CMM...
+26/11/19 - 09:57:21  Evento:  ('nome vindo banco', u'Luana Marcus')
+26/11/19 - 09:57:21  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:57:21  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:57:21  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:57:21  Evento:  ('nome obtido do banco', 'Luana Marcus')
+26/11/19 - 09:57:21  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:57:21  Evento:  Condominio LagoSul IP 172.19.1.251 Luana Marcus Ap 12 37
+26/11/19 - 09:57:21  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:57:21  Evento:  ok
+26/11/19 - 09:57:21  Evento:  ('Enviado evento pelo buffer', '09:57:21')
+26/11/19 - 09:57:21  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:57:21  Evento:  ('Enviado evento pelo buffer', '09:57:21')
+26/11/19 - 09:58:48  Evento:  Conectado com: 127.0.0.1:33260
+26/11/19 - 09:58:48  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:13018979')
+26/11/19 - 09:58:48  Evento:  reconheceu cadastrar
+26/11/19 - 09:58:48  Evento:  Cadastrando no CMM...
+26/11/19 - 09:58:48  Evento:  ('nome vindo banco', u'Tia Cafe')
+26/11/19 - 09:58:48  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 09:58:48  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 09:58:51  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 09:58:51  Evento:  ('nome obtido do banco', 'Tia Cafe')
+26/11/19 - 09:58:51  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 09:58:51  Evento:  Condominio LagoSul IP 172.19.1.251 Tia Cafe Ap 12 37
+26/11/19 - 09:58:51  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 09:58:52  Evento:  ok
+26/11/19 - 09:58:52  Evento:  ('Enviado evento pelo buffer', '09:58:51')
+26/11/19 - 09:58:52  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 09:58:52  Evento:  ('Enviado evento pelo buffer', '09:58:51')
+26/11/19 - 10:02:08  Evento:  Conectado com: 127.0.0.1:33430
+26/11/19 - 10:02:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59623758')
+26/11/19 - 10:02:08  Evento:  reconheceu cadastrar
+26/11/19 - 10:02:08  Evento:  Cadastrando no CMM...
+26/11/19 - 10:02:08  Evento:  ('nome vindo banco', u'Marcos Flores')
+26/11/19 - 10:02:08  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 10:02:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 10:02:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 10:02:12  Evento:  ('nome obtido do banco', 'Marcos Flores')
+26/11/19 - 10:02:12  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 10:02:12  Evento:  Condominio LagoSul IP 172.19.1.251 Marcos Flores Ap 12 37
+26/11/19 - 10:02:12  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 10:02:12  Evento:  ok
+26/11/19 - 10:02:12  Evento:  ('Enviado evento pelo buffer', '10:02:12')
+26/11/19 - 10:02:12  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 10:02:12  Evento:  ('Enviado evento pelo buffer', '10:02:12')
+26/11/19 - 11:34:18  Evento:  Conectado com: 127.0.0.1:37856
+26/11/19 - 11:34:18  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:62973911')
+26/11/19 - 11:34:18  Evento:  reconheceu cadastrar
+26/11/19 - 11:34:18  Evento:  Cadastrando no CMM...
+26/11/19 - 11:34:18  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+26/11/19 - 11:34:18  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 11:34:18  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 11:34:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 11:34:22  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+26/11/19 - 11:34:22  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 11:34:22  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+26/11/19 - 11:34:22  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 11:34:22  Evento:  ok
+26/11/19 - 11:34:22  Evento:  ('Enviado evento pelo buffer', '11:34:22')
+26/11/19 - 11:34:22  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 11:34:22  Evento:  ('Enviado evento pelo buffer', '11:34:22')
+26/11/19 - 11:44:25  Evento:  Conectado com: 127.0.0.1:38350
+26/11/19 - 11:44:25  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:97988577')
+26/11/19 - 11:44:25  Evento:  reconheceu cadastrar
+26/11/19 - 11:44:25  Evento:  Cadastrando no CMM...
+26/11/19 - 11:44:25  Evento:  ('nome vindo banco', u'Tatiana')
+26/11/19 - 11:44:25  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 11:44:25  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 11:44:28  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 11:44:28  Evento:  ('nome obtido do banco', 'Tatiana')
+26/11/19 - 11:44:28  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 11:44:28  Evento:  Condominio LagoSul IP 172.19.1.251 Tatiana Ap 18 08
+26/11/19 - 11:44:28  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 11:44:28  Evento:  ok
+26/11/19 - 11:44:28  Evento:  ('Enviado evento pelo buffer', '11:44:28')
+26/11/19 - 11:44:28  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 11:44:28  Evento:  ('Enviado evento pelo buffer', '11:44:28')
+26/11/19 - 11:58:12  Evento:  Conectado com: 127.0.0.1:39020
+26/11/19 - 11:58:12  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:17694000')
+26/11/19 - 11:58:12  Evento:  reconheceu cadastrar
+26/11/19 - 11:58:12  Evento:  Cadastrando no CMM...
+26/11/19 - 11:58:12  Evento:  ('nome vindo banco', u'Fernanda Schuckar')
+26/11/19 - 11:58:12  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 11:58:12  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 11:58:14  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 11:58:14  Evento:  ('nome obtido do banco', 'Fernanda Schuckar')
+26/11/19 - 11:58:14  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 11:58:14  Evento:  Condominio LagoSul IP 172.19.1.251 Fernanda Schuckar Ap 26 05
+26/11/19 - 11:58:14  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 11:58:14  Evento:  ok
+26/11/19 - 11:58:14  Evento:  ('Enviado evento pelo buffer', '11:58:14')
+26/11/19 - 11:58:14  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 11:58:14  Evento:  ('Enviado evento pelo buffer', '11:58:14')
+26/11/19 - 12:03:15  Evento:  Conectado com: 127.0.0.1:39270
+26/11/19 - 12:03:15  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:66585230')
+26/11/19 - 12:03:15  Evento:  reconheceu cadastrar
+26/11/19 - 12:03:15  Evento:  Cadastrando no CMM...
+26/11/19 - 12:03:15  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+26/11/19 - 12:03:15  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 12:03:15  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 12:03:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 12:03:15  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+26/11/19 - 12:03:15  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 12:03:15  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+26/11/19 - 12:03:15  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 12:03:15  Evento:  ok
+26/11/19 - 12:03:15  Evento:  ('Enviado evento pelo buffer', '12:03:15')
+26/11/19 - 12:03:15  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 12:03:15  Evento:  ('Enviado evento pelo buffer', '12:03:15')
+26/11/19 - 12:03:20  Evento:  Conectado com: 127.0.0.1:39288
+26/11/19 - 12:03:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:32658930')
+26/11/19 - 12:03:20  Evento:  reconheceu cadastrar
+26/11/19 - 12:03:20  Evento:  Cadastrando no CMM...
+26/11/19 - 12:03:20  Evento:  ('nome vindo banco', u'Kleber')
+26/11/19 - 12:03:20  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 12:03:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 12:03:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 12:03:25  Evento:  ('nome obtido do banco', 'Kleber')
+26/11/19 - 12:03:25  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 12:03:25  Evento:  Condominio LagoSul IP 172.19.1.251 Kleber Ap 07 24
+26/11/19 - 12:03:25  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 12:03:25  Evento:  ok
+26/11/19 - 12:03:25  Evento:  ('Enviado evento pelo buffer', '12:03:25')
+26/11/19 - 12:03:25  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 12:03:25  Evento:  ('Enviado evento pelo buffer', '12:03:25')
+26/11/19 - 12:03:35  Evento:  Conectado com: 127.0.0.1:39306
+26/11/19 - 12:03:35  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:85979512')
+26/11/19 - 12:03:35  Evento:  reconheceu cadastrar
+26/11/19 - 12:03:35  Evento:  Cadastrando no CMM...
+26/11/19 - 12:03:35  Evento:  ('nome vindo banco', u'Kleber')
+26/11/19 - 12:03:35  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 12:03:35  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 12:03:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 12:03:35  Evento:  ('nome obtido do banco', 'Kleber')
+26/11/19 - 12:03:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 12:03:35  Evento:  Condominio LagoSul IP 172.19.1.251 Kleber Ap 07 24
+26/11/19 - 12:03:35  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 12:03:35  Evento:  ok
+26/11/19 - 12:03:35  Evento:  ('Enviado evento pelo buffer', '12:03:35')
+26/11/19 - 12:03:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 12:03:35  Evento:  ('Enviado evento pelo buffer', '12:03:35')
+26/11/19 - 12:04:38  Evento:  Conectado com: 127.0.0.1:39368
+26/11/19 - 12:04:38  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:35397542')
+26/11/19 - 12:04:38  Evento:  reconheceu cadastrar
+26/11/19 - 12:04:38  Evento:  Cadastrando no CMM...
+26/11/19 - 12:04:39  Evento:  ('nome vindo banco', u'Kleber')
+26/11/19 - 12:04:39  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 12:04:39  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 12:04:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 12:04:40  Evento:  ('nome obtido do banco', 'Kleber')
+26/11/19 - 12:04:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 12:04:40  Evento:  Condominio LagoSul IP 172.19.1.251 Kleber Ap 07 24
+26/11/19 - 12:04:40  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 12:04:41  Evento:  ok
+26/11/19 - 12:04:41  Evento:  ('Enviado evento pelo buffer', '12:04:40')
+26/11/19 - 12:04:41  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 12:04:41  Evento:  ('Enviado evento pelo buffer', '12:04:40')
+26/11/19 - 13:03:39  Evento:  Conectado com: 127.0.0.1:42206
+26/11/19 - 13:03:39  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:14002935')
+26/11/19 - 13:03:39  Evento:  reconheceu cadastrar
+26/11/19 - 13:03:39  Evento:  Cadastrando no CMM...
+26/11/19 - 13:03:39  Evento:  ('nome vindo banco', u'Pai')
+26/11/19 - 13:03:39  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 13:03:39  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 13:03:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 13:03:42  Evento:  ('nome obtido do banco', 'Pai')
+26/11/19 - 13:03:42  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 13:03:42  Evento:  Condominio LagoSul IP 172.19.1.251 Pai Ap 15 23
+26/11/19 - 13:03:42  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 13:03:42  Evento:  ok
+26/11/19 - 13:03:42  Evento:  ('Enviado evento pelo buffer', '13:03:42')
+26/11/19 - 13:03:42  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 13:03:42  Evento:  ('Enviado evento pelo buffer', '13:03:42')
+26/11/19 - 13:09:47  Evento:  Conectado com: 127.0.0.1:42508
+26/11/19 - 13:09:47  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:33680587')
+26/11/19 - 13:09:47  Evento:  reconheceu cadastrar
+26/11/19 - 13:09:47  Evento:  Cadastrando no CMM...
+26/11/19 - 13:09:47  Evento:  ('nome vindo banco', u'Cibele Mae Eduarda')
+26/11/19 - 13:09:47  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 13:09:47  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 13:09:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 13:09:47  Evento:  ('nome obtido do banco', 'Cibele Mae Eduarda')
+26/11/19 - 13:09:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 13:09:47  Evento:  Condominio LagoSul IP 172.19.1.251 Cibele Mae Eduarda Ap 12 37
+26/11/19 - 13:09:47  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 13:09:48  Evento:  ok
+26/11/19 - 13:09:48  Evento:  ('Enviado evento pelo buffer', '13:09:47')
+26/11/19 - 13:09:48  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 13:09:48  Evento:  ('Enviado evento pelo buffer', '13:09:47')
+26/11/19 - 13:10:18  Evento:  Conectado com: 127.0.0.1:42546
+26/11/19 - 13:10:18  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:61812965')
+26/11/19 - 13:10:18  Evento:  reconheceu cadastrar
+26/11/19 - 13:10:18  Evento:  Cadastrando no CMM...
+26/11/19 - 13:10:18  Evento:  ('nome vindo banco', u'Adriano Fabri')
+26/11/19 - 13:10:18  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 13:10:18  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 13:10:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 13:10:23  Evento:  ('nome obtido do banco', 'Adriano Fabri')
+26/11/19 - 13:10:23  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 13:10:23  Evento:  Condominio LagoSul IP 172.19.1.251 Adriano Fabri Ap 12 37
+26/11/19 - 13:10:23  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 13:10:23  Evento:  ok
+26/11/19 - 13:10:23  Evento:  ('Enviado evento pelo buffer', '13:10:23')
+26/11/19 - 13:10:23  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 13:10:23  Evento:  ('Enviado evento pelo buffer', '13:10:23')
+26/11/19 - 13:14:15  Evento:  Conectado com: 127.0.0.1:42744
+26/11/19 - 13:14:15  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:14434495')
+26/11/19 - 13:14:15  Evento:  reconheceu cadastrar
+26/11/19 - 13:14:15  Evento:  Cadastrando no CMM...
+26/11/19 - 13:14:15  Evento:  ('nome vindo banco', u'Raphael Lavignea')
+26/11/19 - 13:14:15  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 13:14:15  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 13:14:18  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 13:14:18  Evento:  ('nome obtido do banco', 'Raphael Lavignea')
+26/11/19 - 13:14:18  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 13:14:18  Evento:  Condominio LagoSul IP 172.19.1.251 Raphael Lavignea Ap 12 37
+26/11/19 - 13:14:18  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 13:14:18  Evento:  ok
+26/11/19 - 13:14:18  Evento:  ('Enviado evento pelo buffer', '13:14:18')
+26/11/19 - 13:14:18  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 13:14:18  Evento:  ('Enviado evento pelo buffer', '13:14:18')
+26/11/19 - 13:14:48  Evento:  Conectado com: 127.0.0.1:42778
+26/11/19 - 13:14:48  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:58614781')
+26/11/19 - 13:14:48  Evento:  reconheceu cadastrar
+26/11/19 - 13:14:48  Evento:  Cadastrando no CMM...
+26/11/19 - 13:14:48  Evento:  ('nome vindo banco', u'Bruno Bettio CSFA')
+26/11/19 - 13:14:48  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 13:14:48  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 13:14:48  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 13:14:48  Evento:  ('nome obtido do banco', 'Bruno Bettio CSFA')
+26/11/19 - 13:14:48  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 13:14:48  Evento:  Condominio LagoSul IP 172.19.1.251 Bruno Bettio CSFA Ap 12 37
+26/11/19 - 13:14:48  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 13:14:48  Evento:  ok
+26/11/19 - 13:14:48  Evento:  ('Enviado evento pelo buffer', '13:14:48')
+26/11/19 - 13:14:48  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 13:14:48  Evento:  ('Enviado evento pelo buffer', '13:14:48')
+26/11/19 - 15:22:39  Evento:  Conectado com: 127.0.0.1:48916
+26/11/19 - 15:22:39  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:61791012')
+26/11/19 - 15:22:39  Evento:  reconheceu cadastrar
+26/11/19 - 15:22:39  Evento:  Cadastrando no CMM...
+26/11/19 - 15:22:39  Evento:  ('nome vindo banco', u'Ana Paula')
+26/11/19 - 15:22:39  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 15:22:39  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:22:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:22:42  Evento:  ('nome obtido do banco', 'Ana Paula')
+26/11/19 - 15:22:42  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 15:22:42  Evento:  Condominio LagoSul IP 172.19.1.251 Ana Paula Ap 18 08
+26/11/19 - 15:22:42  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:22:42  Evento:  ok
+26/11/19 - 15:22:42  Evento:  ('Enviado evento pelo buffer', '15:22:42')
+26/11/19 - 15:22:42  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:22:42  Evento:  ('Enviado evento pelo buffer', '15:22:42')
+26/11/19 - 15:36:17  Evento:  Conectado com: 127.0.0.1:49578
+26/11/19 - 15:36:17  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:40021293')
+26/11/19 - 15:36:17  Evento:  reconheceu cadastrar
+26/11/19 - 15:36:17  Evento:  Cadastrando no CMM...
+26/11/19 - 15:36:17  Evento:  ('nome vindo banco', u'Gleidson Ceintel')
+26/11/19 - 15:36:17  Evento:  ('Soho', '172.18.37.238')
+26/11/19 - 15:36:17  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:36:18  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:36:18  Evento:  ('nome obtido do banco', 'Gleidson Ceintel')
+26/11/19 - 15:36:18  Evento:  ('Numero do cliente recebido do condfy', '6653')
+26/11/19 - 15:36:18  Evento:  Condominio Soho IP 172.18.37.238 Gleidson Ceintel Ap 1000 
+26/11/19 - 15:36:18  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:36:18  Evento:  ok
+26/11/19 - 15:36:18  Evento:  ('Enviado evento pelo buffer', '15:36:18')
+26/11/19 - 15:36:18  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:36:18  Evento:  ('Enviado evento pelo buffer', '15:36:18')
+26/11/19 - 15:41:25  Evento:  Conectado com: 127.0.0.1:49836
+26/11/19 - 15:41:25  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:88118448')
+26/11/19 - 15:41:25  Evento:  reconheceu cadastrar
+26/11/19 - 15:41:25  Evento:  Cadastrando no CMM...
+26/11/19 - 15:41:25  Evento:  ('nome vindo banco', u'Gleidson Ceintel')
+26/11/19 - 15:41:25  Evento:  ('Soho', '172.18.37.238')
+26/11/19 - 15:41:25  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:41:29  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:41:29  Evento:  ('nome obtido do banco', 'Gleidson Ceintel')
+26/11/19 - 15:41:29  Evento:  ('Numero do cliente recebido do condfy', '6653')
+26/11/19 - 15:41:29  Evento:  Condominio Soho IP 172.18.37.238 Gleidson Ceintel Ap 1000 
+26/11/19 - 15:41:29  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:41:29  Evento:  ok
+26/11/19 - 15:41:29  Evento:  ('Enviado evento pelo buffer', '15:41:29')
+26/11/19 - 15:41:29  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:41:29  Evento:  ('Enviado evento pelo buffer', '15:41:29')
+26/11/19 - 15:42:17  Evento:  Conectado com: 127.0.0.1:49886
+26/11/19 - 15:42:17  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:93527703')
+26/11/19 - 15:42:17  Evento:  reconheceu cadastrar
+26/11/19 - 15:42:17  Evento:  Cadastrando no CMM...
+26/11/19 - 15:42:17  Evento:  ('nome vindo banco', u'Luciano Brandao Machador')
+26/11/19 - 15:42:17  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 15:42:17  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:42:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:42:19  Evento:  ('nome obtido do banco', 'Luciano Brandao Machador')
+26/11/19 - 15:42:19  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 15:42:19  Evento:  Condominio LagoSul IP 172.19.1.251 Luciano Brandao Machador Ap 11 15
+26/11/19 - 15:42:19  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:42:19  Evento:  ok
+26/11/19 - 15:42:19  Evento:  ('Enviado evento pelo buffer', '15:42:19')
+26/11/19 - 15:42:19  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:42:19  Evento:  ('Enviado evento pelo buffer', '15:42:19')
+26/11/19 - 15:43:24  Evento:  Conectado com: 127.0.0.1:49948
+26/11/19 - 15:43:24  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:82205372')
+26/11/19 - 15:43:24  Evento:  reconheceu cadastrar
+26/11/19 - 15:43:24  Evento:  Cadastrando no CMM...
+26/11/19 - 15:43:24  Evento:  ('nome vindo banco', u'Ana Paula')
+26/11/19 - 15:43:24  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 15:43:24  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:43:24  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:43:24  Evento:  ('nome obtido do banco', 'Ana Paula')
+26/11/19 - 15:43:24  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 15:43:24  Evento:  Condominio LagoSul IP 172.19.1.251 Ana Paula Ap 18 08
+26/11/19 - 15:43:24  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:43:24  Evento:  ok
+26/11/19 - 15:43:24  Evento:  ('Enviado evento pelo buffer', '15:43:24')
+26/11/19 - 15:43:24  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:43:24  Evento:  ('Enviado evento pelo buffer', '15:43:24')
+26/11/19 - 15:46:08  Evento:  Conectado com: 127.0.0.1:50090
+26/11/19 - 15:46:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:66130920')
+26/11/19 - 15:46:08  Evento:  reconheceu cadastrar
+26/11/19 - 15:46:08  Evento:  Cadastrando no CMM...
+26/11/19 - 15:46:08  Evento:  ('nome vindo banco', u'Larissa Tadei ')
+26/11/19 - 15:46:08  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 15:46:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:46:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:46:10  Evento:  ('nome obtido do banco', 'Larissa Tadei ')
+26/11/19 - 15:46:10  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 15:46:10  Evento:  Condominio LagoSul IP 172.19.1.251 Larissa Tadei  Ap 09 34
+26/11/19 - 15:46:10  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:46:10  Evento:  ok
+26/11/19 - 15:46:10  Evento:  ('Enviado evento pelo buffer', '15:46:10')
+26/11/19 - 15:46:10  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:46:10  Evento:  ('Enviado evento pelo buffer', '15:46:10')
+26/11/19 - 15:50:31  Evento:  Conectado com: 127.0.0.1:50312
+26/11/19 - 15:50:31  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:10228530')
+26/11/19 - 15:50:31  Evento:  reconheceu cadastrar
+26/11/19 - 15:50:31  Evento:  Cadastrando no CMM...
+26/11/19 - 15:50:31  Evento:  ('nome vindo banco', u'Nilza')
+26/11/19 - 15:50:31  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 15:50:31  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 15:50:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 15:50:35  Evento:  ('nome obtido do banco', 'Nilza')
+26/11/19 - 15:50:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 15:50:35  Evento:  Condominio LagoSul IP 172.19.1.251 Nilza Ap 12 38
+26/11/19 - 15:50:35  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 15:50:35  Evento:  ok
+26/11/19 - 15:50:35  Evento:  ('Enviado evento pelo buffer', '15:50:35')
+26/11/19 - 15:50:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 15:50:35  Evento:  ('Enviado evento pelo buffer', '15:50:35')
+26/11/19 - 16:01:20  Evento:  Conectado com: 127.0.0.1:50838
+26/11/19 - 16:01:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:68011372')
+26/11/19 - 16:01:20  Evento:  reconheceu cadastrar
+26/11/19 - 16:01:20  Evento:  Cadastrando no CMM...
+26/11/19 - 16:01:20  Evento:  ('nome vindo banco', u'Pi')
+26/11/19 - 16:01:20  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 16:01:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 16:01:21  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 16:01:21  Evento:  ('nome obtido do banco', 'Pi')
+26/11/19 - 16:01:21  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 16:01:21  Evento:  Condominio LagoSul IP 172.19.1.251 Pi Ap 08 23
+26/11/19 - 16:01:21  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 16:01:22  Evento:  ok
+26/11/19 - 16:01:22  Evento:  ('Enviado evento pelo buffer', '16:01:21')
+26/11/19 - 16:01:22  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 16:01:22  Evento:  ('Enviado evento pelo buffer', '16:01:21')
+26/11/19 - 16:01:37  Evento:  Conectado com: 127.0.0.1:50864
+26/11/19 - 16:01:37  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:29866895')
+26/11/19 - 16:01:37  Evento:  reconheceu cadastrar
+26/11/19 - 16:01:37  Evento:  Cadastrando no CMM...
+26/11/19 - 16:01:37  Evento:  ('nome vindo banco', u'Mendigola')
+26/11/19 - 16:01:37  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 16:01:37  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 16:01:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 16:01:42  Evento:  ('nome obtido do banco', 'Mendigola')
+26/11/19 - 16:01:42  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 16:01:42  Evento:  Condominio LagoSul IP 172.19.1.251 Mendigola Ap 08 23
+26/11/19 - 16:01:42  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 16:01:42  Evento:  ok
+26/11/19 - 16:01:42  Evento:  ('Enviado evento pelo buffer', '16:01:42')
+26/11/19 - 16:01:42  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 16:01:42  Evento:  ('Enviado evento pelo buffer', '16:01:42')
+26/11/19 - 16:02:00  Evento:  Conectado com: 127.0.0.1:50890
+26/11/19 - 16:02:00  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:21745783')
+26/11/19 - 16:02:00  Evento:  reconheceu cadastrar
+26/11/19 - 16:02:00  Evento:  Cadastrando no CMM...
+26/11/19 - 16:02:00  Evento:  ('nome vindo banco', u'Andre Velho')
+26/11/19 - 16:02:00  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 16:02:00  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 16:02:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 16:02:02  Evento:  ('nome obtido do banco', 'Andre Velho')
+26/11/19 - 16:02:02  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 16:02:02  Evento:  Condominio LagoSul IP 172.19.1.251 Andre Velho Ap 08 23
+26/11/19 - 16:02:02  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 16:02:02  Evento:  ok
+26/11/19 - 16:02:02  Evento:  ('Enviado evento pelo buffer', '16:02:02')
+26/11/19 - 16:02:02  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 16:02:02  Evento:  ('Enviado evento pelo buffer', '16:02:02')
+26/11/19 - 16:03:29  Evento:  Conectado com: 127.0.0.1:50972
+26/11/19 - 16:03:29  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:10978469')
+26/11/19 - 16:03:29  Evento:  reconheceu cadastrar
+26/11/19 - 16:03:29  Evento:  Cadastrando no CMM...
+26/11/19 - 16:03:29  Evento:  ('nome vindo banco', u'Salgadinhos Zapteen')
+26/11/19 - 16:03:29  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 16:03:29  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 16:03:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 16:03:32  Evento:  ('nome obtido do banco', 'Salgadinhos Zapteen')
+26/11/19 - 16:03:32  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 16:03:32  Evento:  Condominio LagoSul IP 172.19.1.251 Salgadinhos Zapteen Ap 12 37
+26/11/19 - 16:03:32  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 16:03:32  Evento:  ok
+26/11/19 - 16:03:32  Evento:  ('Enviado evento pelo buffer', '16:03:32')
+26/11/19 - 16:03:32  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 16:03:32  Evento:  ('Enviado evento pelo buffer', '16:03:32')
+26/11/19 - 16:56:45  Evento:  Conectado com: 127.0.0.1:53534
+26/11/19 - 16:56:45  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:88868721')
+26/11/19 - 16:56:45  Evento:  reconheceu cadastrar
+26/11/19 - 16:56:45  Evento:  Cadastrando no CMM...
+26/11/19 - 16:56:45  Evento:  ('nome vindo banco', u'Michele Madeira Machado')
+26/11/19 - 16:56:45  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 16:56:45  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 16:56:48  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 16:56:48  Evento:  ('nome obtido do banco', 'Michele Madeira Machado')
+26/11/19 - 16:56:48  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 16:56:48  Evento:  Condominio LagoSul IP 172.19.1.251 Michele Madeira Machado Ap 11 15
+26/11/19 - 16:56:48  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 16:56:48  Evento:  ok
+26/11/19 - 16:56:48  Evento:  ('Enviado evento pelo buffer', '16:56:48')
+26/11/19 - 16:56:48  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 16:56:48  Evento:  ('Enviado evento pelo buffer', '16:56:48')
+26/11/19 - 18:38:05  Evento:  Conectado com: 127.0.0.1:58400
+26/11/19 - 18:38:05  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:73681764')
+26/11/19 - 18:38:05  Evento:  reconheceu cadastrar
+26/11/19 - 18:38:05  Evento:  Cadastrando no CMM...
+26/11/19 - 18:38:05  Evento:  ('nome vindo banco', u'Marco Antonio Marques De Olive')
+26/11/19 - 18:38:05  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 18:38:05  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 18:38:08  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 18:38:08  Evento:  ('nome obtido do banco', 'Marco Antonio Marques De Olive')
+26/11/19 - 18:38:08  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 18:38:08  Evento:  Condominio LagoSul IP 172.19.1.251 Marco Antonio Marques De Olive Ap 06 25
+26/11/19 - 18:38:08  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 18:38:09  Evento:  ok
+26/11/19 - 18:38:09  Evento:  ('Enviado evento pelo buffer', '18:38:08')
+26/11/19 - 18:38:09  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 18:38:09  Evento:  ('Enviado evento pelo buffer', '18:38:08')
+26/11/19 - 18:45:30  Evento:  Conectado com: 127.0.0.1:58766
+26/11/19 - 18:45:30  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:61954085')
+26/11/19 - 18:45:30  Evento:  reconheceu cadastrar
+26/11/19 - 18:45:30  Evento:  Cadastrando no CMM...
+26/11/19 - 18:45:30  Evento:  ('nome vindo banco', u'Negreira')
+26/11/19 - 18:45:30  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 18:45:30  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 18:45:34  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 18:45:34  Evento:  ('nome obtido do banco', 'Negreira')
+26/11/19 - 18:45:34  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 18:45:34  Evento:  Condominio LagoSul IP 172.19.1.251 Negreira Ap 08 10
+26/11/19 - 18:45:34  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 18:45:34  Evento:  ok
+26/11/19 - 18:45:34  Evento:  ('Enviado evento pelo buffer', '18:45:34')
+26/11/19 - 18:45:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 18:45:35  Evento:  ('Enviado evento pelo buffer', '18:45:34')
+26/11/19 - 20:05:54  Evento:  Conectado com: 127.0.0.1:34396
+26/11/19 - 20:05:54  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:40268067')
+26/11/19 - 20:05:54  Evento:  reconheceu cadastrar
+26/11/19 - 20:05:54  Evento:  Cadastrando no CMM...
+26/11/19 - 20:05:54  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+26/11/19 - 20:05:54  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 20:05:54  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 20:05:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 20:05:58  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+26/11/19 - 20:05:58  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 20:05:58  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+26/11/19 - 20:05:58  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 20:05:58  Evento:  ok
+26/11/19 - 20:05:58  Evento:  ('Enviado evento pelo buffer', '20:05:58')
+26/11/19 - 20:05:58  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 20:05:58  Evento:  ('Enviado evento pelo buffer', '20:05:58')
+26/11/19 - 20:08:32  Evento:  Conectado com: 127.0.0.1:34530
+26/11/19 - 20:08:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:58089642')
+26/11/19 - 20:08:32  Evento:  reconheceu cadastrar
+26/11/19 - 20:08:32  Evento:  Cadastrando no CMM...
+26/11/19 - 20:08:32  Evento:  ('nome vindo banco', u'Michelle ')
+26/11/19 - 20:08:32  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 20:08:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 20:08:33  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 20:08:33  Evento:  ('nome obtido do banco', 'Michelle ')
+26/11/19 - 20:08:33  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 20:08:33  Evento:  Condominio LagoSul IP 172.19.1.251 Michelle  Ap 07 11
+26/11/19 - 20:08:33  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 20:08:33  Evento:  ok
+26/11/19 - 20:08:33  Evento:  ('Enviado evento pelo buffer', '20:08:33')
+26/11/19 - 20:08:33  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 20:08:33  Evento:  ('Enviado evento pelo buffer', '20:08:33')
+26/11/19 - 20:19:40  Evento:  Conectado com: 127.0.0.1:35076
+26/11/19 - 20:19:40  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:66117307')
+26/11/19 - 20:19:40  Evento:  reconheceu cadastrar
+26/11/19 - 20:19:40  Evento:  Cadastrando no CMM...
+26/11/19 - 20:19:40  Evento:  ('nome vindo banco', u'Carioca')
+26/11/19 - 20:19:40  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 20:19:40  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 20:19:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 20:19:45  Evento:  ('nome obtido do banco', 'Carioca')
+26/11/19 - 20:19:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 20:19:45  Evento:  Condominio LagoSul IP 172.19.1.251 Carioca Ap 01 14
+26/11/19 - 20:19:45  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 20:19:45  Evento:  ok
+26/11/19 - 20:19:45  Evento:  ('Enviado evento pelo buffer', '20:19:45')
+26/11/19 - 20:19:45  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 20:19:45  Evento:  ('Enviado evento pelo buffer', '20:19:45')
+26/11/19 - 20:21:32  Evento:  Conectado com: 127.0.0.1:35174
+26/11/19 - 20:21:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:44207442')
+26/11/19 - 20:21:32  Evento:  reconheceu cadastrar
+26/11/19 - 20:21:32  Evento:  Cadastrando no CMM...
+26/11/19 - 20:21:32  Evento:  ('nome vindo banco', u'Yolanda Franceschetti Dezem')
+26/11/19 - 20:21:32  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 20:21:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 20:21:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 20:21:35  Evento:  ('nome obtido do banco', 'Yolanda Franceschetti Dezem')
+26/11/19 - 20:21:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 20:21:35  Evento:  Condominio LagoSul IP 172.19.1.251 Yolanda Franceschetti Dezem Ap 23 11
+26/11/19 - 20:21:35  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 20:21:35  Evento:  ok
+26/11/19 - 20:21:35  Evento:  ('Enviado evento pelo buffer', '20:21:35')
+26/11/19 - 20:21:35  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 20:21:35  Evento:  ('Enviado evento pelo buffer', '20:21:35')
+26/11/19 - 20:45:37  Evento:  Conectado com: 127.0.0.1:36336
+26/11/19 - 20:45:37  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:47732506')
+26/11/19 - 20:45:37  Evento:  reconheceu cadastrar
+26/11/19 - 20:45:37  Evento:  Cadastrando no CMM...
+26/11/19 - 20:45:38  Evento:  ('nome vindo banco', u'Pedro Farini')
+26/11/19 - 20:45:38  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 20:45:38  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 20:45:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 20:45:38  Evento:  ('nome obtido do banco', 'Pedro Farini')
+26/11/19 - 20:45:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 20:45:38  Evento:  Condominio LagoSul IP 172.19.1.251 Pedro Farini Ap 01 14
+26/11/19 - 20:45:38  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 20:45:38  Evento:  ok
+26/11/19 - 20:45:38  Evento:  ('Enviado evento pelo buffer', '20:45:38')
+26/11/19 - 20:45:38  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 20:45:38  Evento:  ('Enviado evento pelo buffer', '20:45:38')
+26/11/19 - 23:26:34  Evento:  Conectado com: 127.0.0.1:44062
+26/11/19 - 23:26:34  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:90970029')
+26/11/19 - 23:26:34  Evento:  reconheceu cadastrar
+26/11/19 - 23:26:34  Evento:  Cadastrando no CMM...
+26/11/19 - 23:26:34  Evento:  ('nome vindo banco', u'Helder Gouveia')
+26/11/19 - 23:26:34  Evento:  ('LagoSul', '172.19.1.251')
+26/11/19 - 23:26:34  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+26/11/19 - 23:26:39  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+26/11/19 - 23:26:39  Evento:  ('nome obtido do banco', 'Helder Gouveia')
+26/11/19 - 23:26:39  Evento:  ('Numero do cliente recebido do condfy', '0001')
+26/11/19 - 23:26:39  Evento:  Condominio LagoSul IP 172.19.1.251 Helder Gouveia Ap 15 23
+26/11/19 - 23:26:39  Evento:  Enviando item atraves do buffer para o cliente...
+26/11/19 - 23:26:39  Evento:  ok
+26/11/19 - 23:26:39  Evento:  ('Enviado evento pelo buffer', '23:26:39')
+26/11/19 - 23:26:39  Evento:  Atualizado campo 'enviado' para 1
+26/11/19 - 23:26:39  Evento:  ('Enviado evento pelo buffer', '23:26:39')
+27/11/19 - 06:49:07  Evento:  Conectado com: 127.0.0.1:37046
+27/11/19 - 06:49:07  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:23353208')
+27/11/19 - 06:49:07  Evento:  reconheceu cadastrar
+27/11/19 - 06:49:07  Evento:  Cadastrando no CMM...
+27/11/19 - 06:49:07  Evento:  ('nome vindo banco', u'Joao Alberto Zago Bevenuto')
+27/11/19 - 06:49:07  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 06:49:07  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 06:49:09  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 06:49:09  Evento:  ('nome obtido do banco', 'Joao Alberto Zago Bevenuto')
+27/11/19 - 06:49:09  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 06:49:09  Evento:  Condominio LagoSul IP 172.19.1.251 Joao Alberto Zago Bevenuto Ap 09 34
+27/11/19 - 06:49:09  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 06:49:09  Evento:  ok
+27/11/19 - 06:49:09  Evento:  ('Enviado evento pelo buffer', '06:49:09')
+27/11/19 - 06:49:09  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 06:49:09  Evento:  ('Enviado evento pelo buffer', '06:49:09')
+27/11/19 - 07:09:32  Evento:  Conectado com: 127.0.0.1:38036
+27/11/19 - 07:09:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:29783797')
+27/11/19 - 07:09:32  Evento:  reconheceu cadastrar
+27/11/19 - 07:09:32  Evento:  Cadastrando no CMM...
+27/11/19 - 07:09:32  Evento:  ('nome vindo banco', u'Lahis Ramos Gandara')
+27/11/19 - 07:09:32  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 07:09:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 07:09:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 07:09:37  Evento:  ('nome obtido do banco', 'Lahis Ramos Gandara')
+27/11/19 - 07:09:37  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 07:09:37  Evento:  Condominio LagoSul IP 172.19.1.251 Lahis Ramos Gandara Ap 13 22
+27/11/19 - 07:09:37  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 07:09:37  Evento:  ok
+27/11/19 - 07:09:37  Evento:  ('Enviado evento pelo buffer', '07:09:37')
+27/11/19 - 07:09:37  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 07:09:37  Evento:  ('Enviado evento pelo buffer', '07:09:37')
+27/11/19 - 09:18:20  Evento:  Conectado com: 127.0.0.1:44214
+27/11/19 - 09:18:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:57770698')
+27/11/19 - 09:18:20  Evento:  reconheceu cadastrar
+27/11/19 - 09:18:20  Evento:  Cadastrando no CMM...
+27/11/19 - 09:18:20  Evento:  ('nome vindo banco', u'Daniel Irmao')
+27/11/19 - 09:18:20  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 09:18:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 09:18:20  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 09:18:20  Evento:  ('nome obtido do banco', 'Daniel Irmao')
+27/11/19 - 09:18:20  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 09:18:20  Evento:  Condominio LagoSul IP 172.19.1.251 Daniel Irmao Ap 06 15
+27/11/19 - 09:18:20  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 09:18:20  Evento:  ok
+27/11/19 - 09:18:20  Evento:  ('Enviado evento pelo buffer', '09:18:20')
+27/11/19 - 09:18:20  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 09:18:20  Evento:  ('Enviado evento pelo buffer', '09:18:20')
+27/11/19 - 10:01:36  Evento:  Conectado com: 127.0.0.1:46300
+27/11/19 - 10:01:36  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:67635289')
+27/11/19 - 10:01:36  Evento:  reconheceu cadastrar
+27/11/19 - 10:01:36  Evento:  Cadastrando no CMM...
+27/11/19 - 10:01:36  Evento:  ('nome vindo banco', u'Paulo Roberto Migues')
+27/11/19 - 10:01:36  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:01:36  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:01:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:01:40  Evento:  ('nome obtido do banco', 'Paulo Roberto Migues')
+27/11/19 - 10:01:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:01:40  Evento:  Condominio LagoSul IP 172.19.1.251 Paulo Roberto Migues Ap 06 08
+27/11/19 - 10:01:40  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:01:40  Evento:  ok
+27/11/19 - 10:01:40  Evento:  ('Enviado evento pelo buffer', '10:01:40')
+27/11/19 - 10:01:40  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:01:40  Evento:  ('Enviado evento pelo buffer', '10:01:40')
+27/11/19 - 10:05:23  Evento:  Conectado com: 127.0.0.1:46490
+27/11/19 - 10:05:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18797758')
+27/11/19 - 10:05:23  Evento:  reconheceu cadastrar
+27/11/19 - 10:05:23  Evento:  Cadastrando no CMM...
+27/11/19 - 10:05:23  Evento:  ('nome vindo banco', u'Adm')
+27/11/19 - 10:05:23  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:05:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:05:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:05:25  Evento:  ('nome obtido do banco', 'Adm')
+27/11/19 - 10:05:25  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:05:25  Evento:  Condominio LagoSul IP 172.19.1.251 Adm Ap 06 08
+27/11/19 - 10:05:25  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:05:25  Evento:  ok
+27/11/19 - 10:05:25  Evento:  ('Enviado evento pelo buffer', '10:05:25')
+27/11/19 - 10:05:25  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:05:25  Evento:  ('Enviado evento pelo buffer', '10:05:25')
+27/11/19 - 10:15:13  Evento:  Conectado com: 127.0.0.1:46972
+27/11/19 - 10:15:13  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:39966954')
+27/11/19 - 10:15:13  Evento:  reconheceu cadastrar
+27/11/19 - 10:15:13  Evento:  Cadastrando no CMM...
+27/11/19 - 10:15:13  Evento:  ('nome vindo banco', u'Alberto (Beto)')
+27/11/19 - 10:15:13  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:15:13  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:15:16  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:15:16  Evento:  ('nome obtido do banco', 'Alberto (Beto)')
+27/11/19 - 10:15:16  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:15:16  Evento:  Condominio LagoSul IP 172.19.1.251 Alberto (Beto) Ap Administra Administra
+27/11/19 - 10:15:16  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:15:16  Evento:  ok
+27/11/19 - 10:15:16  Evento:  ('Enviado evento pelo buffer', '10:15:16')
+27/11/19 - 10:15:16  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:15:16  Evento:  ('Enviado evento pelo buffer', '10:15:16')
+27/11/19 - 10:20:11  Evento:  Conectado com: 127.0.0.1:47218
+27/11/19 - 10:20:11  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:37111144')
+27/11/19 - 10:20:11  Evento:  reconheceu cadastrar
+27/11/19 - 10:20:11  Evento:  Cadastrando no CMM...
+27/11/19 - 10:20:11  Evento:  ('nome vindo banco', u'Danilo Copi')
+27/11/19 - 10:20:11  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:20:11  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:20:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:20:12  Evento:  ('nome obtido do banco', 'Danilo Copi')
+27/11/19 - 10:20:12  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:20:12  Evento:  Condominio LagoSul IP 172.19.1.251 Danilo Copi Ap Administra Administra
+27/11/19 - 10:20:12  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:20:12  Evento:  ok
+27/11/19 - 10:20:12  Evento:  ('Enviado evento pelo buffer', '10:20:12')
+27/11/19 - 10:20:12  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:20:12  Evento:  ('Enviado evento pelo buffer', '10:20:12')
+27/11/19 - 10:20:44  Evento:  Conectado com: 127.0.0.1:47256
+27/11/19 - 10:20:44  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:14516640')
+27/11/19 - 10:20:44  Evento:  reconheceu cadastrar
+27/11/19 - 10:20:44  Evento:  Cadastrando no CMM...
+27/11/19 - 10:20:44  Evento:  ('nome vindo banco', u'Danilo Copi')
+27/11/19 - 10:20:44  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:20:44  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:20:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:20:47  Evento:  ('nome obtido do banco', 'Danilo Copi')
+27/11/19 - 10:20:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:20:47  Evento:  Condominio LagoSul IP 172.19.1.251 Danilo Copi Ap Administra Administra
+27/11/19 - 10:20:47  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:20:47  Evento:  ok
+27/11/19 - 10:20:47  Evento:  ('Enviado evento pelo buffer', '10:20:47')
+27/11/19 - 10:20:47  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:20:47  Evento:  ('Enviado evento pelo buffer', '10:20:47')
+27/11/19 - 10:21:02  Evento:  Conectado com: 127.0.0.1:47278
+27/11/19 - 10:21:02  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:54510974')
+27/11/19 - 10:21:02  Evento:  reconheceu cadastrar
+27/11/19 - 10:21:02  Evento:  Cadastrando no CMM...
+27/11/19 - 10:21:02  Evento:  ('nome vindo banco', u'Danilo Copi')
+27/11/19 - 10:21:02  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:21:02  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:21:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:21:02  Evento:  ('nome obtido do banco', 'Danilo Copi')
+27/11/19 - 10:21:02  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:21:02  Evento:  Condominio LagoSul IP 172.19.1.251 Danilo Copi Ap Administra Administra
+27/11/19 - 10:21:02  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:21:02  Evento:  ok
+27/11/19 - 10:21:02  Evento:  ('Enviado evento pelo buffer', '10:21:02')
+27/11/19 - 10:21:02  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:21:02  Evento:  ('Enviado evento pelo buffer', '10:21:02')
+27/11/19 - 10:36:16  Evento:  Conectado com: 127.0.0.1:48020
+27/11/19 - 10:36:16  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:77277691')
+27/11/19 - 10:36:16  Evento:  reconheceu cadastrar
+27/11/19 - 10:36:16  Evento:  Cadastrando no CMM...
+27/11/19 - 10:36:16  Evento:  ('nome vindo banco', u'Eduardo Sia')
+27/11/19 - 10:36:16  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 10:36:16  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 10:36:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 10:36:19  Evento:  ('nome obtido do banco', 'Eduardo Sia')
+27/11/19 - 10:36:19  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 10:36:19  Evento:  Condominio LagoSul IP 172.19.1.251 Eduardo Sia Ap 11 39
+27/11/19 - 10:36:19  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 10:36:19  Evento:  ok
+27/11/19 - 10:36:19  Evento:  ('Enviado evento pelo buffer', '10:36:19')
+27/11/19 - 10:36:19  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 10:36:19  Evento:  ('Enviado evento pelo buffer', '10:36:19')
+27/11/19 - 11:14:17  Evento:  Conectado com: 127.0.0.1:49850
+27/11/19 - 11:14:17  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:94500332')
+27/11/19 - 11:14:17  Evento:  reconheceu cadastrar
+27/11/19 - 11:14:17  Evento:  Cadastrando no CMM...
+27/11/19 - 11:14:17  Evento:  ('nome vindo banco', u'Tiago Jose Napolitano Amor')
+27/11/19 - 11:14:17  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 11:14:17  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 11:14:18  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 11:14:18  Evento:  ('nome obtido do banco', 'Tiago Jose Napolitano Amor')
+27/11/19 - 11:14:18  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 11:14:18  Evento:  Condominio LagoSul IP 172.19.1.251 Tiago Jose Napolitano Amor Ap 17 37
+27/11/19 - 11:14:18  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 11:14:18  Evento:  ok
+27/11/19 - 11:14:18  Evento:  ('Enviado evento pelo buffer', '11:14:18')
+27/11/19 - 11:14:18  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 11:14:18  Evento:  ('Enviado evento pelo buffer', '11:14:18')
+27/11/19 - 11:34:46  Evento:  Conectado com: 127.0.0.1:50844
+27/11/19 - 11:34:46  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:42785036')
+27/11/19 - 11:34:46  Evento:  reconheceu cadastrar
+27/11/19 - 11:34:46  Evento:  Cadastrando no CMM...
+27/11/19 - 11:34:46  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+27/11/19 - 11:34:46  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 11:34:46  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 11:34:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 11:34:50  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+27/11/19 - 11:34:50  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 11:34:50  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+27/11/19 - 11:34:50  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 11:34:50  Evento:  ok
+27/11/19 - 11:34:50  Evento:  ('Enviado evento pelo buffer', '11:34:50')
+27/11/19 - 11:34:50  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 11:34:50  Evento:  ('Enviado evento pelo buffer', '11:34:50')
+27/11/19 - 11:51:44  Evento:  Conectado com: 127.0.0.1:51666
+27/11/19 - 11:51:44  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:75818753')
+27/11/19 - 11:51:44  Evento:  reconheceu cadastrar
+27/11/19 - 11:51:44  Evento:  Cadastrando no CMM...
+27/11/19 - 11:51:44  Evento:  ('nome vindo banco', u'Supervisao De Seguranca')
+27/11/19 - 11:51:44  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 11:51:44  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 11:51:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 11:51:47  Evento:  ('nome obtido do banco', 'Supervisao De Seguranca')
+27/11/19 - 11:51:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 11:51:47  Evento:  Condominio LagoSul IP 172.19.1.251 Supervisao De Seguranca Ap Administra Administra
+27/11/19 - 11:51:47  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 11:51:47  Evento:  ok
+27/11/19 - 11:51:47  Evento:  ('Enviado evento pelo buffer', '11:51:47')
+27/11/19 - 11:51:47  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 11:51:47  Evento:  ('Enviado evento pelo buffer', '11:51:47')
+27/11/19 - 11:52:14  Evento:  Conectado com: 127.0.0.1:51700
+27/11/19 - 11:52:14  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:20783770')
+27/11/19 - 11:52:14  Evento:  reconheceu cadastrar
+27/11/19 - 11:52:14  Evento:  Cadastrando no CMM...
+27/11/19 - 11:52:14  Evento:  ('nome vindo banco', u'Supervisao De Seguranca')
+27/11/19 - 11:52:14  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 11:52:14  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 11:52:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 11:52:17  Evento:  ('nome obtido do banco', 'Supervisao De Seguranca')
+27/11/19 - 11:52:17  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 11:52:17  Evento:  Condominio LagoSul IP 172.19.1.251 Supervisao De Seguranca Ap Administra Administra
+27/11/19 - 11:52:17  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 11:52:17  Evento:  ok
+27/11/19 - 11:52:17  Evento:  ('Enviado evento pelo buffer', '11:52:17')
+27/11/19 - 11:52:17  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 11:52:17  Evento:  ('Enviado evento pelo buffer', '11:52:17')
+27/11/19 - 12:49:20  Evento:  Conectado com: 127.0.0.1:54446
+27/11/19 - 12:49:20  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:20771273')
+27/11/19 - 12:49:20  Evento:  reconheceu cadastrar
+27/11/19 - 12:49:20  Evento:  Cadastrando no CMM...
+27/11/19 - 12:49:20  Evento:  ('nome vindo banco', u'Carlos Marsola')
+27/11/19 - 12:49:20  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 12:49:20  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 12:49:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 12:49:23  Evento:  ('nome obtido do banco', 'Carlos Marsola')
+27/11/19 - 12:49:23  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 12:49:23  Evento:  Condominio LagoSul IP 172.19.1.251 Carlos Marsola Ap 03 22
+27/11/19 - 12:49:23  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 12:49:24  Evento:  ok
+27/11/19 - 12:49:24  Evento:  ('Enviado evento pelo buffer', '12:49:23')
+27/11/19 - 12:49:24  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 12:49:24  Evento:  ('Enviado evento pelo buffer', '12:49:23')
+27/11/19 - 12:49:47  Evento:  Conectado com: 127.0.0.1:54476
+27/11/19 - 12:49:47  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:62094557')
+27/11/19 - 12:49:47  Evento:  reconheceu cadastrar
+27/11/19 - 12:49:47  Evento:  Cadastrando no CMM...
+27/11/19 - 12:49:47  Evento:  ('nome vindo banco', u'Carlos Marsola')
+27/11/19 - 12:49:47  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 12:49:47  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 12:49:49  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 12:49:49  Evento:  ('nome obtido do banco', 'Carlos Marsola')
+27/11/19 - 12:49:49  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 12:49:49  Evento:  Condominio LagoSul IP 172.19.1.251 Carlos Marsola Ap 03 22
+27/11/19 - 12:49:49  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 12:49:49  Evento:  ok
+27/11/19 - 12:49:49  Evento:  ('Enviado evento pelo buffer', '12:49:49')
+27/11/19 - 12:49:49  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 12:49:49  Evento:  ('Enviado evento pelo buffer', '12:49:49')
+27/11/19 - 13:03:08  Evento:  Conectado com: 127.0.0.1:55126
+27/11/19 - 13:03:08  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:58575498')
+27/11/19 - 13:03:08  Evento:  reconheceu cadastrar
+27/11/19 - 13:03:08  Evento:  Cadastrando no CMM...
+27/11/19 - 13:03:08  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+27/11/19 - 13:03:08  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 13:03:08  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 13:03:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 13:03:10  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+27/11/19 - 13:03:10  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 13:03:10  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+27/11/19 - 13:03:10  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 13:03:10  Evento:  ok
+27/11/19 - 13:03:10  Evento:  ('Enviado evento pelo buffer', '13:03:10')
+27/11/19 - 13:03:10  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 13:03:10  Evento:  ('Enviado evento pelo buffer', '13:03:10')
+27/11/19 - 13:14:01  Evento:  Conectado com: 127.0.0.1:55656
+27/11/19 - 13:14:01  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:66082274')
+27/11/19 - 13:14:01  Evento:  reconheceu cadastrar
+27/11/19 - 13:14:01  Evento:  Cadastrando no CMM...
+27/11/19 - 13:14:01  Evento:  ('nome vindo banco', u'Danilo Copi')
+27/11/19 - 13:14:01  Evento:  ('Central de Monitoramento', '172.20.6.14')
+27/11/19 - 13:14:01  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 13:14:01  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 13:14:01  Evento:  ('nome obtido do banco', 'Danilo Copi')
+27/11/19 - 13:14:01  Evento:  ('Numero do cliente recebido do condfy', '9014')
+27/11/19 - 13:14:01  Evento:  Condominio Central de Monitoramento IP 172.20.6.14 Danilo Copi Ap Comercial 
+27/11/19 - 13:14:01  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 13:14:01  Evento:  ok
+27/11/19 - 13:14:01  Evento:  ('Enviado evento pelo buffer', '13:14:01')
+27/11/19 - 13:14:01  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 13:14:01  Evento:  ('Enviado evento pelo buffer', '13:14:01')
+27/11/19 - 13:15:58  Evento:  Conectado com: 127.0.0.1:55762
+27/11/19 - 13:15:58  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:42137260')
+27/11/19 - 13:15:58  Evento:  reconheceu cadastrar
+27/11/19 - 13:15:58  Evento:  Cadastrando no CMM...
+27/11/19 - 13:15:58  Evento:  ('nome vindo banco', u'Matheus')
+27/11/19 - 13:15:58  Evento:  ('Central de Monitoramento', '172.20.6.14')
+27/11/19 - 13:15:58  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 13:16:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 13:16:02  Evento:  ('nome obtido do banco', 'Matheus')
+27/11/19 - 13:16:02  Evento:  ('Numero do cliente recebido do condfy', '9014')
+27/11/19 - 13:16:02  Evento:  Condominio Central de Monitoramento IP 172.20.6.14 Matheus Ap Comercial 
+27/11/19 - 13:16:02  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 13:16:02  Evento:  ok
+27/11/19 - 13:16:02  Evento:  ('Enviado evento pelo buffer', '13:16:02')
+27/11/19 - 13:16:02  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 13:16:02  Evento:  ('Enviado evento pelo buffer', '13:16:02')
+27/11/19 - 13:30:52  Evento:  Conectado com: 127.0.0.1:56484
+27/11/19 - 13:30:52  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18582029')
+27/11/19 - 13:30:52  Evento:  reconheceu cadastrar
+27/11/19 - 13:30:52  Evento:  Cadastrando no CMM...
+27/11/19 - 13:30:52  Evento:  ('nome vindo banco', u'Fabio')
+27/11/19 - 13:30:52  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 13:30:52  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 13:30:53  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 13:30:53  Evento:  ('nome obtido do banco', 'Fabio')
+27/11/19 - 13:30:53  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 13:30:53  Evento:  Condominio LagoSul IP 172.19.1.251 Fabio Ap 15 23
+27/11/19 - 13:30:53  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 13:30:53  Evento:  ok
+27/11/19 - 13:30:53  Evento:  ('Enviado evento pelo buffer', '13:30:53')
+27/11/19 - 13:30:53  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 13:30:53  Evento:  ('Enviado evento pelo buffer', '13:30:53')
+27/11/19 - 14:09:50  Evento:  Conectado com: 127.0.0.1:58362
+27/11/19 - 14:09:50  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:12295066')
+27/11/19 - 14:09:50  Evento:  reconheceu cadastrar
+27/11/19 - 14:09:50  Evento:  Cadastrando no CMM...
+27/11/19 - 14:09:50  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+27/11/19 - 14:09:50  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 14:09:50  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 14:09:53  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 14:09:53  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+27/11/19 - 14:09:53  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 14:09:53  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+27/11/19 - 14:09:53  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 14:09:53  Evento:  ok
+27/11/19 - 14:09:53  Evento:  ('Enviado evento pelo buffer', '14:09:53')
+27/11/19 - 14:09:53  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 14:09:53  Evento:  ('Enviado evento pelo buffer', '14:09:53')
+27/11/19 - 14:21:32  Evento:  Conectado com: 127.0.0.1:58932
+27/11/19 - 14:21:32  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18100708')
+27/11/19 - 14:21:32  Evento:  reconheceu cadastrar
+27/11/19 - 14:21:32  Evento:  Cadastrando no CMM...
+27/11/19 - 14:21:32  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+27/11/19 - 14:21:32  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 14:21:32  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 14:21:34  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 14:21:34  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+27/11/19 - 14:21:34  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 14:21:34  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+27/11/19 - 14:21:34  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 14:21:34  Evento:  ok
+27/11/19 - 14:21:34  Evento:  ('Enviado evento pelo buffer', '14:21:34')
+27/11/19 - 14:21:34  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 14:21:34  Evento:  ('Enviado evento pelo buffer', '14:21:34')
+27/11/19 - 14:31:37  Evento:  Conectado com: 127.0.0.1:59426
+27/11/19 - 14:31:37  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:85812866')
+27/11/19 - 14:31:37  Evento:  reconheceu cadastrar
+27/11/19 - 14:31:37  Evento:  Cadastrando no CMM...
+27/11/19 - 14:31:37  Evento:  ('nome vindo banco', u'Ailton Maciel Refrigeracao')
+27/11/19 - 14:31:37  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 14:31:37  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 14:31:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 14:31:40  Evento:  ('nome obtido do banco', 'Ailton Maciel Refrigeracao')
+27/11/19 - 14:31:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 14:31:40  Evento:  Condominio LagoSul IP 172.19.1.251 Ailton Maciel Refrigeracao Ap 13 22
+27/11/19 - 14:31:40  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 14:31:40  Evento:  ok
+27/11/19 - 14:31:40  Evento:  ('Enviado evento pelo buffer', '14:31:40')
+27/11/19 - 14:31:40  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 14:31:40  Evento:  ('Enviado evento pelo buffer', '14:31:40')
+27/11/19 - 15:22:31  Evento:  Conectado com: 127.0.0.1:33644
+27/11/19 - 15:22:31  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:93016326')
+27/11/19 - 15:22:31  Evento:  reconheceu cadastrar
+27/11/19 - 15:22:31  Evento:  Cadastrando no CMM...
+27/11/19 - 15:22:31  Evento:  ('nome vindo banco', u'Marco Antonio Marques De Olive')
+27/11/19 - 15:22:31  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 15:22:31  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 15:22:36  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 15:22:36  Evento:  ('nome obtido do banco', 'Marco Antonio Marques De Olive')
+27/11/19 - 15:22:36  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 15:22:36  Evento:  Condominio LagoSul IP 172.19.1.251 Marco Antonio Marques De Olive Ap 06 25
+27/11/19 - 15:22:36  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 15:22:36  Evento:  ok
+27/11/19 - 15:22:36  Evento:  ('Enviado evento pelo buffer', '15:22:36')
+27/11/19 - 15:22:36  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 15:22:36  Evento:  ('Enviado evento pelo buffer', '15:22:36')
+27/11/19 - 16:07:00  Evento:  Conectado com: 127.0.0.1:35782
+27/11/19 - 16:07:00  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:80101384')
+27/11/19 - 16:07:00  Evento:  reconheceu cadastrar
+27/11/19 - 16:07:00  Evento:  Cadastrando no CMM...
+27/11/19 - 16:07:00  Evento:  ('nome vindo banco', u'Stefany')
+27/11/19 - 16:07:00  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 16:07:00  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 16:07:00  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 16:07:00  Evento:  ('nome obtido do banco', 'Stefany')
+27/11/19 - 16:07:00  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 16:07:00  Evento:  Condominio LagoSul IP 172.19.1.251 Stefany Ap 08 19
+27/11/19 - 16:07:00  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 16:07:00  Evento:  ok
+27/11/19 - 16:07:00  Evento:  ('Enviado evento pelo buffer', '16:07:00')
+27/11/19 - 16:07:00  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 16:07:00  Evento:  ('Enviado evento pelo buffer', '16:07:00')
+27/11/19 - 16:49:06  Evento:  Conectado com: 127.0.0.1:37812
+27/11/19 - 16:49:06  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:69547812')
+27/11/19 - 16:49:06  Evento:  reconheceu cadastrar
+27/11/19 - 16:49:06  Evento:  Cadastrando no CMM...
+27/11/19 - 16:49:06  Evento:  ('nome vindo banco', u'Kawasse Netafim')
+27/11/19 - 16:49:06  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 16:49:06  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 16:49:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 16:49:10  Evento:  ('nome obtido do banco', 'Kawasse Netafim')
+27/11/19 - 16:49:10  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 16:49:10  Evento:  Condominio LagoSul IP 172.19.1.251 Kawasse Netafim Ap 01 08
+27/11/19 - 16:49:10  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 16:49:10  Evento:  ok
+27/11/19 - 16:49:10  Evento:  ('Enviado evento pelo buffer', '16:49:10')
+27/11/19 - 16:49:10  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 16:49:10  Evento:  ('Enviado evento pelo buffer', '16:49:10')
+27/11/19 - 16:49:44  Evento:  Conectado com: 127.0.0.1:37850
+27/11/19 - 16:49:44  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:19426928')
+27/11/19 - 16:49:44  Evento:  reconheceu cadastrar
+27/11/19 - 16:49:44  Evento:  Cadastrando no CMM...
+27/11/19 - 16:49:44  Evento:  ('nome vindo banco', u'Fernando Netafim')
+27/11/19 - 16:49:44  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 16:49:44  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 16:49:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 16:49:45  Evento:  ('nome obtido do banco', 'Fernando Netafim')
+27/11/19 - 16:49:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 16:49:45  Evento:  Condominio LagoSul IP 172.19.1.251 Fernando Netafim Ap 01 08
+27/11/19 - 16:49:45  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 16:49:45  Evento:  ok
+27/11/19 - 16:49:45  Evento:  ('Enviado evento pelo buffer', '16:49:45')
+27/11/19 - 16:49:45  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 16:49:45  Evento:  ('Enviado evento pelo buffer', '16:49:45')
+27/11/19 - 16:50:11  Evento:  Conectado com: 127.0.0.1:37884
+27/11/19 - 16:50:11  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:19386060')
+27/11/19 - 16:50:11  Evento:  reconheceu cadastrar
+27/11/19 - 16:50:11  Evento:  Cadastrando no CMM...
+27/11/19 - 16:50:11  Evento:  ('nome vindo banco', u'Samuel partic')
+27/11/19 - 16:50:11  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 16:50:11  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 16:50:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 16:50:15  Evento:  ('nome obtido do banco', 'Samuel partic')
+27/11/19 - 16:50:15  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 16:50:15  Evento:  Condominio LagoSul IP 172.19.1.251 Samuel partic Ap 01 08
+27/11/19 - 16:50:15  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 16:50:15  Evento:  ok
+27/11/19 - 16:50:15  Evento:  ('Enviado evento pelo buffer', '16:50:15')
+27/11/19 - 16:50:15  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 16:50:15  Evento:  ('Enviado evento pelo buffer', '16:50:15')
+27/11/19 - 16:50:31  Evento:  Conectado com: 127.0.0.1:37910
+27/11/19 - 16:50:31  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:25669557')
+27/11/19 - 16:50:31  Evento:  reconheceu cadastrar
+27/11/19 - 16:50:31  Evento:  Cadastrando no CMM...
+27/11/19 - 16:50:31  Evento:  ('nome vindo banco', u'Abrao Irriga')
+27/11/19 - 16:50:31  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 16:50:31  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 16:50:36  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 16:50:36  Evento:  ('nome obtido do banco', 'Abrao Irriga')
+27/11/19 - 16:50:36  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 16:50:36  Evento:  Condominio LagoSul IP 172.19.1.251 Abrao Irriga Ap 01 08
+27/11/19 - 16:50:36  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 16:50:36  Evento:  ok
+27/11/19 - 16:50:36  Evento:  ('Enviado evento pelo buffer', '16:50:36')
+27/11/19 - 16:50:36  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 16:50:36  Evento:  ('Enviado evento pelo buffer', '16:50:36')
+27/11/19 - 17:31:55  Evento:  Conectado com: 127.0.0.1:39904
+27/11/19 - 17:31:55  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59168324')
+27/11/19 - 17:31:55  Evento:  reconheceu cadastrar
+27/11/19 - 17:31:55  Evento:  Cadastrando no CMM...
+27/11/19 - 17:31:55  Evento:  ('nome vindo banco', u'Tatiana')
+27/11/19 - 17:31:55  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 17:31:55  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 17:32:00  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 17:32:00  Evento:  ('nome obtido do banco', 'Tatiana')
+27/11/19 - 17:32:00  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 17:32:00  Evento:  Condominio LagoSul IP 172.19.1.251 Tatiana Ap 18 08
+27/11/19 - 17:32:00  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 17:32:00  Evento:  ok
+27/11/19 - 17:32:00  Evento:  ('Enviado evento pelo buffer', '17:32:00')
+27/11/19 - 17:32:00  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 17:32:00  Evento:  ('Enviado evento pelo buffer', '17:32:00')
+27/11/19 - 17:44:10  Evento:  Conectado com: 127.0.0.1:40498
+27/11/19 - 17:44:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:82405653')
+27/11/19 - 17:44:10  Evento:  reconheceu cadastrar
+27/11/19 - 17:44:10  Evento:  Cadastrando no CMM...
+27/11/19 - 17:44:10  Evento:  ('nome vindo banco', u'Brian Perandre Da Costa')
+27/11/19 - 17:44:10  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 17:44:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 17:44:11  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 17:44:11  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+27/11/19 - 17:44:11  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 17:44:11  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+27/11/19 - 17:44:11  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 17:44:12  Evento:  ok
+27/11/19 - 17:44:12  Evento:  ('Enviado evento pelo buffer', '17:44:11')
+27/11/19 - 17:44:12  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 17:44:12  Evento:  ('Enviado evento pelo buffer', '17:44:11')
+27/11/19 - 18:02:16  Evento:  Conectado com: 127.0.0.1:41380
+27/11/19 - 18:02:16  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:50704691')
+27/11/19 - 18:02:16  Evento:  reconheceu cadastrar
+27/11/19 - 18:02:16  Evento:  Cadastrando no CMM...
+27/11/19 - 18:02:16  Evento:  ('nome vindo banco', u'Renato Senne Godoy')
+27/11/19 - 18:02:16  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 18:02:16  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 18:02:18  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 18:02:18  Evento:  ('nome obtido do banco', 'Renato Senne Godoy')
+27/11/19 - 18:02:18  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 18:02:18  Evento:  Condominio LagoSul IP 172.19.1.251 Renato Senne Godoy Ap 18 14
+27/11/19 - 18:02:18  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 18:02:19  Evento:  ok
+27/11/19 - 18:02:19  Evento:  ('Enviado evento pelo buffer', '18:02:18')
+27/11/19 - 18:02:19  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 18:02:19  Evento:  ('Enviado evento pelo buffer', '18:02:18')
+27/11/19 - 18:50:46  Evento:  Conectado com: 127.0.0.1:43714
+27/11/19 - 18:50:46  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:92951238')
+27/11/19 - 18:50:46  Evento:  reconheceu cadastrar
+27/11/19 - 18:50:46  Evento:  Cadastrando no CMM...
+27/11/19 - 18:50:46  Evento:  ('nome vindo banco', u'Carol Zilio')
+27/11/19 - 18:50:46  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 18:50:46  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 18:50:49  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 18:50:49  Evento:  ('nome obtido do banco', 'Carol Zilio')
+27/11/19 - 18:50:49  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 18:50:49  Evento:  Condominio LagoSul IP 172.19.1.251 Carol Zilio Ap 18 32
+27/11/19 - 18:50:49  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 18:50:50  Evento:  ok
+27/11/19 - 18:50:50  Evento:  ('Enviado evento pelo buffer', '18:50:49')
+27/11/19 - 18:50:50  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 18:50:50  Evento:  ('Enviado evento pelo buffer', '18:50:49')
+27/11/19 - 18:57:57  Evento:  Conectado com: 127.0.0.1:44068
+27/11/19 - 18:57:57  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:99580730')
+27/11/19 - 18:57:57  Evento:  reconheceu cadastrar
+27/11/19 - 18:57:57  Evento:  Cadastrando no CMM...
+27/11/19 - 18:57:57  Evento:  ('nome vindo banco', u'Paulo Roberto Migues')
+27/11/19 - 18:57:57  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 18:57:57  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 18:58:01  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 18:58:01  Evento:  ('nome obtido do banco', 'Paulo Roberto Migues')
+27/11/19 - 18:58:01  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 18:58:01  Evento:  Condominio LagoSul IP 172.19.1.251 Paulo Roberto Migues Ap 06 08
+27/11/19 - 18:58:01  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 18:58:01  Evento:  ok
+27/11/19 - 18:58:01  Evento:  ('Enviado evento pelo buffer', '18:58:01')
+27/11/19 - 18:58:01  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 18:58:01  Evento:  ('Enviado evento pelo buffer', '18:58:01')
+27/11/19 - 19:00:18  Evento:  Conectado com: 127.0.0.1:44190
+27/11/19 - 19:00:18  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:32347222')
+27/11/19 - 19:00:18  Evento:  reconheceu cadastrar
+27/11/19 - 19:00:18  Evento:  Cadastrando no CMM...
+27/11/19 - 19:00:18  Evento:  ('nome vindo banco', u'Paulo Roberto Migues')
+27/11/19 - 19:00:18  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 19:00:18  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 19:00:21  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 19:00:21  Evento:  ('nome obtido do banco', 'Paulo Roberto Migues')
+27/11/19 - 19:00:21  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 19:00:21  Evento:  Condominio LagoSul IP 172.19.1.251 Paulo Roberto Migues Ap 06 08
+27/11/19 - 19:00:21  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 19:00:21  Evento:  ok
+27/11/19 - 19:00:21  Evento:  ('Enviado evento pelo buffer', '19:00:21')
+27/11/19 - 19:00:21  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 19:00:21  Evento:  ('Enviado evento pelo buffer', '19:00:21')
+27/11/19 - 20:13:11  Evento:  Conectado com: 127.0.0.1:47692
+27/11/19 - 20:13:11  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:26093336')
+27/11/19 - 20:13:11  Evento:  reconheceu cadastrar
+27/11/19 - 20:13:11  Evento:  Cadastrando no CMM...
+27/11/19 - 20:13:11  Evento:  ('nome vindo banco', u'Henricao')
+27/11/19 - 20:13:11  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 20:13:11  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 20:13:14  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 20:13:14  Evento:  ('nome obtido do banco', 'Henricao')
+27/11/19 - 20:13:14  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 20:13:14  Evento:  Condominio LagoSul IP 172.19.1.251 Henricao Ap 10 01
+27/11/19 - 20:13:14  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 20:13:14  Evento:  ok
+27/11/19 - 20:13:14  Evento:  ('Enviado evento pelo buffer', '20:13:14')
+27/11/19 - 20:13:14  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 20:13:14  Evento:  ('Enviado evento pelo buffer', '20:13:14')
+27/11/19 - 21:05:23  Evento:  Conectado com: 127.0.0.1:50202
+27/11/19 - 21:05:23  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:95373477')
+27/11/19 - 21:05:23  Evento:  reconheceu cadastrar
+27/11/19 - 21:05:23  Evento:  Cadastrando no CMM...
+27/11/19 - 21:05:23  Evento:  ('nome vindo banco', u'Cida')
+27/11/19 - 21:05:23  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 21:05:23  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 21:05:24  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 21:05:24  Evento:  ('nome obtido do banco', 'Cida')
+27/11/19 - 21:05:24  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 21:05:24  Evento:  Condominio LagoSul IP 172.19.1.251 Cida Ap 20 24
+27/11/19 - 21:05:24  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 21:05:24  Evento:  ok
+27/11/19 - 21:05:24  Evento:  ('Enviado evento pelo buffer', '21:05:24')
+27/11/19 - 21:05:24  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 21:05:24  Evento:  ('Enviado evento pelo buffer', '21:05:24')
+27/11/19 - 21:53:42  Evento:  Conectado com: 127.0.0.1:52528
+27/11/19 - 21:53:42  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:67216447')
+27/11/19 - 21:53:42  Evento:  reconheceu cadastrar
+27/11/19 - 21:53:42  Evento:  Cadastrando no CMM...
+27/11/19 - 21:53:42  Evento:  ('nome vindo banco', u'Paulo Roberto Migues')
+27/11/19 - 21:53:42  Evento:  ('LagoSul', '172.19.1.251')
+27/11/19 - 21:53:42  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+27/11/19 - 21:53:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+27/11/19 - 21:53:45  Evento:  ('nome obtido do banco', 'Paulo Roberto Migues')
+27/11/19 - 21:53:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+27/11/19 - 21:53:45  Evento:  Condominio LagoSul IP 172.19.1.251 Paulo Roberto Migues Ap 06 08
+27/11/19 - 21:53:45  Evento:  Enviando item atraves do buffer para o cliente...
+27/11/19 - 21:53:45  Evento:  ok
+27/11/19 - 21:53:45  Evento:  ('Enviado evento pelo buffer', '21:53:45')
+27/11/19 - 21:53:45  Evento:  Atualizado campo 'enviado' para 1
+27/11/19 - 21:53:45  Evento:  ('Enviado evento pelo buffer', '21:53:45')
+28/11/19 - 00:18:38  Evento:  Conectado com: 127.0.0.1:59482
+28/11/19 - 00:18:38  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:22195336')
+28/11/19 - 00:18:38  Evento:  reconheceu cadastrar
+28/11/19 - 00:18:38  Evento:  Cadastrando no CMM...
+28/11/19 - 00:18:38  Evento:  ('nome vindo banco', u'Nelson Jose Sales Junior')
+28/11/19 - 00:18:38  Evento:  ('LagoSul', '172.19.1.251')
+28/11/19 - 00:18:38  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+28/11/19 - 00:18:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+28/11/19 - 00:18:40  Evento:  ('nome obtido do banco', 'Nelson Jose Sales Junior')
+28/11/19 - 00:18:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+28/11/19 - 00:18:40  Evento:  Condominio LagoSul IP 172.19.1.251 Nelson Jose Sales Junior Ap 28 22
+28/11/19 - 00:18:40  Evento:  Enviando item atraves do buffer para o cliente...
+28/11/19 - 00:18:40  Evento:  ok
+28/11/19 - 00:18:40  Evento:  ('Enviado evento pelo buffer', '00:18:40')
+28/11/19 - 00:18:40  Evento:  Atualizado campo 'enviado' para 1
+28/11/19 - 00:18:40  Evento:  ('Enviado evento pelo buffer', '00:18:40')
+28/11/19 - 07:12:49  Evento:  Conectado com: 127.0.0.1:51114
+28/11/19 - 07:12:49  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:89941781')
+28/11/19 - 07:12:49  Evento:  reconheceu cadastrar
+28/11/19 - 07:12:49  Evento:  Cadastrando no CMM...
+28/11/19 - 07:12:49  Evento:  ('nome vindo banco', u'Gerencia')
+28/11/19 - 07:12:49  Evento:  ('LagoSul', '172.19.1.251')
+28/11/19 - 07:12:49  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+28/11/19 - 07:12:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+28/11/19 - 07:12:52  Evento:  ('nome obtido do banco', 'Gerencia')
+28/11/19 - 07:12:52  Evento:  ('Numero do cliente recebido do condfy', '0001')
+28/11/19 - 07:12:52  Evento:  Condominio LagoSul IP 172.19.1.251 Gerencia Ap Administra Administra
+28/11/19 - 07:12:52  Evento:  Enviando item atraves do buffer para o cliente...
+28/11/19 - 07:12:52  Evento:  ok
+28/11/19 - 07:12:52  Evento:  ('Enviado evento pelo buffer', '07:12:52')
+28/11/19 - 07:12:52  Evento:  Atualizado campo 'enviado' para 1
+28/11/19 - 07:12:52  Evento:  ('Enviado evento pelo buffer', '07:12:52')
+28/11/19 - 07:14:05  Evento:  Conectado com: 127.0.0.1:51184
+28/11/19 - 07:14:05  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:67899403')
+28/11/19 - 07:14:05  Evento:  reconheceu cadastrar
+28/11/19 - 07:14:05  Evento:  Cadastrando no CMM...
+28/11/19 - 07:14:05  Evento:  ('nome vindo banco', u'Joao')
+28/11/19 - 07:14:05  Evento:  ('LagoSul', '172.19.1.251')
+28/11/19 - 07:14:05  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+28/11/19 - 07:14:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+28/11/19 - 07:14:07  Evento:  ('nome obtido do banco', 'Joao')
+28/11/19 - 07:14:07  Evento:  ('Numero do cliente recebido do condfy', '0001')
+28/11/19 - 07:14:07  Evento:  Condominio LagoSul IP 172.19.1.251 Joao Ap 17 37
+28/11/19 - 07:14:07  Evento:  Enviando item atraves do buffer para o cliente...
+28/11/19 - 07:14:07  Evento:  ok
+28/11/19 - 07:14:07  Evento:  ('Enviado evento pelo buffer', '07:14:07')
+28/11/19 - 07:14:07  Evento:  Atualizado campo 'enviado' para 1
+28/11/19 - 07:14:07  Evento:  ('Enviado evento pelo buffer', '07:14:07')
+28/11/19 - 07:16:05  Evento:  Conectado com: 127.0.0.1:51290
+28/11/19 - 07:16:05  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:75243204')
+28/11/19 - 07:16:05  Evento:  reconheceu cadastrar
+28/11/19 - 07:16:05  Evento:  Cadastrando no CMM...
+28/11/19 - 07:16:05  Evento:  ('nome vindo banco', u'Gerencia')
+28/11/19 - 07:16:05  Evento:  ('LagoSul', '172.19.1.251')
+28/11/19 - 07:16:05  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+28/11/19 - 07:16:08  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+28/11/19 - 07:16:08  Evento:  ('nome obtido do banco', 'Gerencia')
+28/11/19 - 07:16:08  Evento:  ('Numero do cliente recebido do condfy', '0001')
+28/11/19 - 07:16:08  Evento:  Condominio LagoSul IP 172.19.1.251 Gerencia Ap Administra Administra
+28/11/19 - 07:16:08  Evento:  Enviando item atraves do buffer para o cliente...
+28/11/19 - 07:16:08  Evento:  ok
+28/11/19 - 07:16:08  Evento:  ('Enviado evento pelo buffer', '07:16:08')
+28/11/19 - 07:16:08  Evento:  Atualizado campo 'enviado' para 1
+28/11/19 - 07:16:08  Evento:  ('Enviado evento pelo buffer', '07:16:08')
+28/11/19 - 07:38:10  Evento:  Conectado com: 127.0.0.1:52360
+28/11/19 - 07:38:10  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:41970645')
+28/11/19 - 07:38:10  Evento:  reconheceu cadastrar
+28/11/19 - 07:38:10  Evento:  Cadastrando no CMM...
+28/11/19 - 07:38:10  Evento:  ('nome vindo banco', u'Paulo Roberto Migues')
+28/11/19 - 07:38:10  Evento:  ('LagoSul', '172.19.1.251')
+28/11/19 - 07:38:10  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+28/11/19 - 07:38:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+28/11/19 - 07:38:15  Evento:  ('nome obtido do banco', 'Paulo Roberto Migues')
+28/11/19 - 07:38:15  Evento:  ('Numero do cliente recebido do condfy', '0001')
+28/11/19 - 07:38:15  Evento:  Condominio LagoSul IP 172.19.1.251 Paulo Roberto Migues Ap 06 08
+28/11/19 - 07:38:15  Evento:  Enviando item atraves do buffer para o cliente...
+28/11/19 - 07:38:15  Evento:  ok
+28/11/19 - 07:38:15  Evento:  ('Enviado evento pelo buffer', '07:38:15')
+28/11/19 - 07:38:15  Evento:  Atualizado campo 'enviado' para 1
+28/11/19 - 07:38:15  Evento:  ('Enviado evento pelo buffer', '07:38:15')

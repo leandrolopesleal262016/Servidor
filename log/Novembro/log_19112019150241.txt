@@ -1,0 +1,43 @@
+19/11/19 - 14:44:41  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:44:41  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:44:41  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:44:41  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:44:41  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:44:41  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:46:53  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:46:58  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:46:58  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:46:58  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:46:58  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:46:58  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:49:08  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:49:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:49:13  Evento:  ('nome obtido do banco', 'Meu numero')
+19/11/19 - 14:49:13  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:49:13  Evento:  Condominio Soho IP 172.18.37.238 Meu numero Ap 1000 
+19/11/19 - 14:49:13  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:51:23  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:51:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:51:23  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:51:23  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:51:23  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:51:23  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:53:34  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:53:39  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:53:39  Evento:  ('nome obtido do banco', 'Meu numero')
+19/11/19 - 14:53:39  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:53:39  Evento:  Condominio Soho IP 172.18.37.238 Meu numero Ap 1000 
+19/11/19 - 14:53:39  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:54:44  Evento:  ok
+19/11/19 - 14:54:44  Evento:  ('Enviado evento pelo buffer', '14:53:39')
+19/11/19 - 14:54:44  Evento:  Atualizado campo 'enviado' para 1
+19/11/19 - 14:54:44  Evento:  ('Enviado evento pelo buffer', '14:53:39')
+19/11/19 - 14:54:49  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:54:49  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:54:49  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:54:49  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:54:49  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:54:49  Evento:  ok
+19/11/19 - 14:54:49  Evento:  ('Enviado evento pelo buffer', '14:54:49')
+19/11/19 - 14:54:49  Evento:  Atualizado campo 'enviado' para 1
+19/11/19 - 14:54:49  Evento:  ('Enviado evento pelo buffer', '14:54:49')

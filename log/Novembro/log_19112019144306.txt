@@ -1,0 +1,228 @@
+19/11/19 - 14:25:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:25:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:25:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:02  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:02  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:07  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:07  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:12  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:12  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:17  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:17  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:22  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:22  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:27  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:27  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:32  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:32  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:37  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:37  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:42  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:42  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:47  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:47  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:52  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:52  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:26:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:26:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:26:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:02  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:02  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:07  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:07  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:12  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:12  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:17  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:17  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:22  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:22  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:27  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:27  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:32  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:32  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:37  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:37  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:42  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:42  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:47  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:47  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:52  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:52  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:27:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:27:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:27:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:02  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:02  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:07  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:07  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:12  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:12  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:17  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:17  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:22  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:22  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:27  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:27  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:32  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:32  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:37  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:37  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:42  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:42  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:47  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:47  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:52  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:52  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:28:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:28:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:28:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:02  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:02  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:07  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:07  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:12  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:12  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:17  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:17  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:22  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:22  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:27  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:27  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:32  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:32  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:37  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:37  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:42  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:42  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:47  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:47  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:52  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:52  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:29:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:29:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:29:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:02  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:02  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:07  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:07  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:07  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:12  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:12  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:12  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:17  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:17  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:17  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:22  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:22  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:22  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:27  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:27  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:32  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:32  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:37  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:37  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:42  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:42  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:47  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:47  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:52  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:52  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:30:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:30:57  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:30:57  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:31:18  Evento:  Iniciou o Gerenciador
+19/11/19 - 14:31:19  Evento:  ('Servidor cadastro:', '0.0.0.0', 'porta:', 5050)
+19/11/19 - 14:31:19  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+19/11/19 - 14:31:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:31:19  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:31:19  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:31:19  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:31:19  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:33:30  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:33:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:33:35  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:33:35  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:33:35  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:33:35  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:35:45  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:35:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:35:50  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:35:50  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:35:50  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:35:50  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:37:33  Evento:  Conectado com: 127.0.0.1:41666
+19/11/19 - 14:37:33  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:18156760')
+19/11/19 - 14:37:33  Evento:  reconheceu cadastrar
+19/11/19 - 14:37:33  Evento:  Cadastrando no CMM...
+19/11/19 - 14:37:33  Evento:  ('nome vindo banco', u'Meu numero')
+19/11/19 - 14:37:33  Evento:  ('Soho', '172.18.37.238')
+19/11/19 - 14:37:33  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+19/11/19 - 14:38:00  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:38:05  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:38:05  Evento:  ('nome obtido do banco', 'Meu numero')
+19/11/19 - 14:38:05  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:38:05  Evento:  Condominio Soho IP 172.18.37.238 Meu numero Ap 1000 
+19/11/19 - 14:38:05  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:40:15  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:40:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:40:15  Evento:  ('nome obtido do banco', 'Leandro Lopes Leal')
+19/11/19 - 14:40:15  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:40:15  Evento:  Condominio Soho IP 172.18.37.238 Leandro Lopes Leal Ap 1000 
+19/11/19 - 14:40:15  Evento:  Enviando item atraves do buffer para o cliente...
+19/11/19 - 14:42:26  Evento:  ('Nao conseguiu enviar para o CMM', error(110, 'Connection timed out'))
+19/11/19 - 14:42:31  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+19/11/19 - 14:42:31  Evento:  ('nome obtido do banco', 'Meu numero')
+19/11/19 - 14:42:31  Evento:  ('Numero do cliente recebido do condfy', '6653')
+19/11/19 - 14:42:31  Evento:  Condominio Soho IP 172.18.37.238 Meu numero Ap 1000 
+19/11/19 - 14:42:31  Evento:  Enviando item atraves do buffer para o cliente...

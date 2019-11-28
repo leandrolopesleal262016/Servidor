@@ -1,0 +1,381 @@
+11/11/19 - 09:05:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:40  Evento:  ('nome obtido do banco', 'Cibele Vivo')
+11/11/19 - 09:05:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:05:40  Evento:  Condominio LagoSul IP 172.19.1.251 Cibele Vivo Ap 04 10
+11/11/19 - 09:05:40  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:05:41  Evento:  ok
+11/11/19 - 09:05:41  Evento:  ('Enviado evento pelo buffer', '09:05:40')
+11/11/19 - 09:05:41  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:05:41  Evento:  ('Enviado evento pelo buffer', '09:05:40')
+11/11/19 - 09:05:46  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:46  Evento:  ('nome obtido do banco', 'Gustavo cintia')
+11/11/19 - 09:05:46  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:05:46  Evento:  Condominio LagoSul IP 172.19.1.251 Gustavo cintia Ap 12 38
+11/11/19 - 09:05:46  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:05:46  Evento:  ok
+11/11/19 - 09:05:46  Evento:  ('Enviado evento pelo buffer', '09:05:46')
+11/11/19 - 09:05:46  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:05:46  Evento:  ('Enviado evento pelo buffer', '09:05:46')
+11/11/19 - 09:05:51  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:51  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+11/11/19 - 09:05:51  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:05:51  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+11/11/19 - 09:05:51  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:05:51  Evento:  ok
+11/11/19 - 09:05:51  Evento:  ('Enviado evento pelo buffer', '09:05:51')
+11/11/19 - 09:05:51  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:05:51  Evento:  ('Enviado evento pelo buffer', '09:05:51')
+11/11/19 - 09:05:56  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:56  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+11/11/19 - 09:05:56  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:05:56  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+11/11/19 - 09:05:56  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:05:56  Evento:  ok
+11/11/19 - 09:05:56  Evento:  ('Enviado evento pelo buffer', '09:05:56')
+11/11/19 - 09:05:56  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:05:56  Evento:  ('Enviado evento pelo buffer', '09:05:56')
+11/11/19 - 09:06:01  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:01  Evento:  ('nome obtido do banco', 'Moises ')
+11/11/19 - 09:06:01  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:01  Evento:  Condominio LagoSul IP 172.19.1.251 Moises  Ap 15 17
+11/11/19 - 09:06:01  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:01  Evento:  ok
+11/11/19 - 09:06:01  Evento:  ('Enviado evento pelo buffer', '09:06:01')
+11/11/19 - 09:06:01  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:01  Evento:  ('Enviado evento pelo buffer', '09:06:01')
+11/11/19 - 09:06:06  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:06  Evento:  ('nome obtido do banco', 'Soeli Soares De Mello')
+11/11/19 - 09:06:06  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:06  Evento:  Condominio LagoSul IP 172.19.1.251 Soeli Soares De Mello Ap 04 05
+11/11/19 - 09:06:06  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:06  Evento:  ok
+11/11/19 - 09:06:06  Evento:  ('Enviado evento pelo buffer', '09:06:06')
+11/11/19 - 09:06:06  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:06  Evento:  ('Enviado evento pelo buffer', '09:06:06')
+11/11/19 - 09:06:11  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:11  Evento:  ('nome obtido do banco', 'Anderson')
+11/11/19 - 09:06:11  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:11  Evento:  Condominio LagoSul IP 172.19.1.251 Anderson Ap 17 37
+11/11/19 - 09:06:11  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:11  Evento:  ok
+11/11/19 - 09:06:11  Evento:  ('Enviado evento pelo buffer', '09:06:11')
+11/11/19 - 09:06:11  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:11  Evento:  ('Enviado evento pelo buffer', '09:06:11')
+11/11/19 - 09:06:16  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:16  Evento:  ('nome obtido do banco', 'Marcos Antonio De Godoy')
+11/11/19 - 09:06:16  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:16  Evento:  Condominio LagoSul IP 172.19.1.251 Marcos Antonio De Godoy Ap 02 41
+11/11/19 - 09:06:16  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:16  Evento:  ok
+11/11/19 - 09:06:16  Evento:  ('Enviado evento pelo buffer', '09:06:16')
+11/11/19 - 09:06:16  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:16  Evento:  ('Enviado evento pelo buffer', '09:06:16')
+11/11/19 - 09:06:21  Evento:  Conectado com: 127.0.0.1:46464
+11/11/19 - 09:06:21  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:59387654')
+11/11/19 - 09:06:21  Evento:  reconheceu cadastrar
+11/11/19 - 09:06:21  Evento:  Cadastrando no CMM...
+11/11/19 - 09:06:21  Evento:  ('nome vindo banco', u'Meu numero')
+11/11/19 - 09:06:21  Evento:  ('LagoSul', '172.19.1.251')
+11/11/19 - 09:06:21  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+11/11/19 - 09:06:21  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:21  Evento:  ('nome obtido do banco', 'Jose Eduardo Cogo Castanho')
+11/11/19 - 09:06:21  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:21  Evento:  Condominio LagoSul IP 172.19.1.251 Jose Eduardo Cogo Castanho Ap 07 24
+11/11/19 - 09:06:21  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:22  Evento:  ok
+11/11/19 - 09:06:22  Evento:  ('Enviado evento pelo buffer', '09:06:21')
+11/11/19 - 09:06:22  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:22  Evento:  ('Enviado evento pelo buffer', '09:06:21')
+11/11/19 - 09:06:27  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:27  Evento:  ('nome obtido do banco', 'Lela')
+11/11/19 - 09:06:27  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:27  Evento:  Condominio LagoSul IP 172.19.1.251 Lela Ap 01 25
+11/11/19 - 09:06:27  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:27  Evento:  ok
+11/11/19 - 09:06:27  Evento:  ('Enviado evento pelo buffer', '09:06:27')
+11/11/19 - 09:06:27  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:27  Evento:  ('Enviado evento pelo buffer', '09:06:27')
+11/11/19 - 09:06:32  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:32  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+11/11/19 - 09:06:32  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:32  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+11/11/19 - 09:06:32  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:32  Evento:  ok
+11/11/19 - 09:06:32  Evento:  ('Enviado evento pelo buffer', '09:06:32')
+11/11/19 - 09:06:32  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:32  Evento:  ('Enviado evento pelo buffer', '09:06:32')
+11/11/19 - 09:06:37  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:37  Evento:  ('nome obtido do banco', 'Fernando Cordaro')
+11/11/19 - 09:06:37  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:37  Evento:  Condominio LagoSul IP 172.19.1.251 Fernando Cordaro Ap 16 29
+11/11/19 - 09:06:37  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:37  Evento:  ok
+11/11/19 - 09:06:37  Evento:  ('Enviado evento pelo buffer', '09:06:37')
+11/11/19 - 09:06:37  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:37  Evento:  ('Enviado evento pelo buffer', '09:06:37')
+11/11/19 - 09:06:42  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:42  Evento:  ('nome obtido do banco', 'Marcelo MOMESSO')
+11/11/19 - 09:06:42  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:42  Evento:  Condominio LagoSul IP 172.19.1.251 Marcelo MOMESSO Ap 06 13
+11/11/19 - 09:06:42  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:42  Evento:  ok
+11/11/19 - 09:06:42  Evento:  ('Enviado evento pelo buffer', '09:06:42')
+11/11/19 - 09:06:42  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:42  Evento:  ('Enviado evento pelo buffer', '09:06:42')
+11/11/19 - 09:06:47  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:47  Evento:  ('nome obtido do banco', 'Gu Mamae')
+11/11/19 - 09:06:47  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:47  Evento:  Condominio LagoSul IP 172.19.1.251 Gu Mamae Ap 12 38
+11/11/19 - 09:06:47  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:47  Evento:  ok
+11/11/19 - 09:06:47  Evento:  ('Enviado evento pelo buffer', '09:06:47')
+11/11/19 - 09:06:47  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:47  Evento:  ('Enviado evento pelo buffer', '09:06:47')
+11/11/19 - 09:06:52  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:52  Evento:  ('nome obtido do banco', 'Marilayde Julieta da Costa')
+11/11/19 - 09:06:52  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:52  Evento:  Condominio LagoSul IP 172.19.1.251 Marilayde Julieta da Costa Ap 03 15
+11/11/19 - 09:06:52  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:52  Evento:  ok
+11/11/19 - 09:06:52  Evento:  ('Enviado evento pelo buffer', '09:06:52')
+11/11/19 - 09:06:52  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:52  Evento:  ('Enviado evento pelo buffer', '09:06:52')
+11/11/19 - 09:06:57  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:06:57  Evento:  ('nome obtido do banco', 'Ana Leticia Palombo Momesso')
+11/11/19 - 09:06:57  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:06:57  Evento:  Condominio LagoSul IP 172.19.1.251 Ana Leticia Palombo Momesso Ap 06 13
+11/11/19 - 09:06:57  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:06:57  Evento:  ok
+11/11/19 - 09:06:57  Evento:  ('Enviado evento pelo buffer', '09:06:57')
+11/11/19 - 09:06:57  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:06:57  Evento:  ('Enviado evento pelo buffer', '09:06:57')
+11/11/19 - 09:07:02  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:02  Evento:  ('nome obtido do banco', 'Meu numero')
+11/11/19 - 09:07:02  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:02  Evento:  Condominio LagoSul IP 172.19.1.251 Meu numero Ap Teste Cein 01
+11/11/19 - 09:07:02  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:03  Evento:  ok
+11/11/19 - 09:07:03  Evento:  ('Enviado evento pelo buffer', '09:07:02')
+11/11/19 - 09:07:03  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:03  Evento:  ('Enviado evento pelo buffer', '09:07:02')
+11/11/19 - 09:07:08  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:08  Evento:  ('nome obtido do banco', 'Cibele Graeff')
+11/11/19 - 09:07:08  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:08  Evento:  Condominio LagoSul IP 172.19.1.251 Cibele Graeff Ap 04 10
+11/11/19 - 09:07:08  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:08  Evento:  ok
+11/11/19 - 09:07:08  Evento:  ('Enviado evento pelo buffer', '09:07:08')
+11/11/19 - 09:07:08  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:08  Evento:  ('Enviado evento pelo buffer', '09:07:08')
+11/11/19 - 09:07:13  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:13  Evento:  ('nome obtido do banco', 'Brian Perandre Da Costa')
+11/11/19 - 09:07:13  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:13  Evento:  Condominio LagoSul IP 172.19.1.251 Brian Perandre Da Costa Ap 03 15
+11/11/19 - 09:07:13  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:13  Evento:  ok
+11/11/19 - 09:07:13  Evento:  ('Enviado evento pelo buffer', '09:07:13')
+11/11/19 - 09:07:13  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:13  Evento:  ('Enviado evento pelo buffer', '09:07:13')
+11/11/19 - 09:07:18  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:18  Evento:  ('nome obtido do banco', 'Isabelle Yamazaki')
+11/11/19 - 09:07:18  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:18  Evento:  Condominio LagoSul IP 172.19.1.251 Isabelle Yamazaki Ap 01 13
+11/11/19 - 09:07:18  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:18  Evento:  ok
+11/11/19 - 09:07:18  Evento:  ('Enviado evento pelo buffer', '09:07:18')
+11/11/19 - 09:07:18  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:18  Evento:  ('Enviado evento pelo buffer', '09:07:18')
+11/11/19 - 09:07:23  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:23  Evento:  ('nome obtido do banco', 'Leo Cozza')
+11/11/19 - 09:07:23  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:23  Evento:  Condominio LagoSul IP 172.19.1.251 Leo Cozza Ap 01 14
+11/11/19 - 09:07:23  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:23  Evento:  ok
+11/11/19 - 09:07:23  Evento:  ('Enviado evento pelo buffer', '09:07:23')
+11/11/19 - 09:07:23  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:23  Evento:  ('Enviado evento pelo buffer', '09:07:23')
+11/11/19 - 09:07:28  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:28  Evento:  ('nome obtido do banco', 'Cristiane Gameiro')
+11/11/19 - 09:07:28  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:28  Evento:  Condominio LagoSul IP 172.19.1.251 Cristiane Gameiro Ap 16 29
+11/11/19 - 09:07:28  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:28  Evento:  ok
+11/11/19 - 09:07:28  Evento:  ('Enviado evento pelo buffer', '09:07:28')
+11/11/19 - 09:07:28  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:28  Evento:  ('Enviado evento pelo buffer', '09:07:28')
+11/11/19 - 09:07:33  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:33  Evento:  ('nome obtido do banco', 'Carla')
+11/11/19 - 09:07:33  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:33  Evento:  Condominio LagoSul IP 172.19.1.251 Carla Ap 03 24
+11/11/19 - 09:07:33  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:33  Evento:  ok
+11/11/19 - 09:07:33  Evento:  ('Enviado evento pelo buffer', '09:07:33')
+11/11/19 - 09:07:33  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:33  Evento:  ('Enviado evento pelo buffer', '09:07:33')
+11/11/19 - 09:07:38  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:38  Evento:  ('nome obtido do banco', 'Henrique Pavan Shigueno')
+11/11/19 - 09:07:38  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:38  Evento:  Condominio LagoSul IP 172.19.1.251 Henrique Pavan Shigueno Ap 05 35
+11/11/19 - 09:07:38  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:38  Evento:  ok
+11/11/19 - 09:07:38  Evento:  ('Enviado evento pelo buffer', '09:07:38')
+11/11/19 - 09:07:38  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:38  Evento:  ('Enviado evento pelo buffer', '09:07:38')
+11/11/19 - 09:07:43  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:43  Evento:  ('nome obtido do banco', 'Bruno Cozza')
+11/11/19 - 09:07:43  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:43  Evento:  Condominio LagoSul IP 172.19.1.251 Bruno Cozza Ap 01 14
+11/11/19 - 09:07:43  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:43  Evento:  ok
+11/11/19 - 09:07:43  Evento:  ('Enviado evento pelo buffer', '09:07:43')
+11/11/19 - 09:07:43  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:43  Evento:  ('Enviado evento pelo buffer', '09:07:43')
+11/11/19 - 09:07:48  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:48  Evento:  ('nome obtido do banco', 'Elizabet Rosa Bernardo Da Silv')
+11/11/19 - 09:07:48  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:48  Evento:  Condominio LagoSul IP 172.19.1.251 Elizabet Rosa Bernardo Da Silv Ap 13 36
+11/11/19 - 09:07:48  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:49  Evento:  ok
+11/11/19 - 09:07:49  Evento:  ('Enviado evento pelo buffer', '09:07:48')
+11/11/19 - 09:07:49  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:49  Evento:  ('Enviado evento pelo buffer', '09:07:48')
+11/11/19 - 09:07:54  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:54  Evento:  ('nome obtido do banco', 'Airton Pereira De Almeida Juni')
+11/11/19 - 09:07:54  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:54  Evento:  Condominio LagoSul IP 172.19.1.251 Airton Pereira De Almeida Juni Ap 09 11
+11/11/19 - 09:07:54  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:54  Evento:  ok
+11/11/19 - 09:07:54  Evento:  ('Enviado evento pelo buffer', '09:07:54')
+11/11/19 - 09:07:54  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:54  Evento:  ('Enviado evento pelo buffer', '09:07:54')
+11/11/19 - 09:07:59  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:07:59  Evento:  ('nome obtido do banco', 'Valeria')
+11/11/19 - 09:07:59  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:07:59  Evento:  Condominio LagoSul IP 172.19.1.251 Valeria Ap 01 25
+11/11/19 - 09:07:59  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:07:59  Evento:  ok
+11/11/19 - 09:07:59  Evento:  ('Enviado evento pelo buffer', '09:07:59')
+11/11/19 - 09:07:59  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:07:59  Evento:  ('Enviado evento pelo buffer', '09:07:59')
+11/11/19 - 09:08:04  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:04  Evento:  ('nome obtido do banco', 'Cibele Vivo')
+11/11/19 - 09:08:04  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:04  Evento:  Condominio LagoSul IP 172.19.1.251 Cibele Vivo Ap 04 10
+11/11/19 - 09:08:04  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:04  Evento:  ok
+11/11/19 - 09:08:04  Evento:  ('Enviado evento pelo buffer', '09:08:04')
+11/11/19 - 09:08:04  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:04  Evento:  ('Enviado evento pelo buffer', '09:08:04')
+11/11/19 - 09:08:09  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:09  Evento:  ('nome obtido do banco', 'Robertinho')
+11/11/19 - 09:08:09  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:09  Evento:  Condominio LagoSul IP 172.19.1.251 Robertinho Ap 08 24
+11/11/19 - 09:08:09  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:09  Evento:  ok
+11/11/19 - 09:08:09  Evento:  ('Enviado evento pelo buffer', '09:08:09')
+11/11/19 - 09:08:09  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:09  Evento:  ('Enviado evento pelo buffer', '09:08:09')
+11/11/19 - 09:08:14  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:14  Evento:  ('nome obtido do banco', 'Cin Sogra')
+11/11/19 - 09:08:14  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:14  Evento:  Condominio LagoSul IP 172.19.1.251 Cin Sogra Ap 12 38
+11/11/19 - 09:08:14  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:14  Evento:  ok
+11/11/19 - 09:08:14  Evento:  ('Enviado evento pelo buffer', '09:08:14')
+11/11/19 - 09:08:14  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:14  Evento:  ('Enviado evento pelo buffer', '09:08:14')
+11/11/19 - 09:08:19  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:19  Evento:  ('nome obtido do banco', 'Walt Yamazaki')
+11/11/19 - 09:08:19  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:19  Evento:  Condominio LagoSul IP 172.19.1.251 Walt Yamazaki Ap 01 13
+11/11/19 - 09:08:19  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:19  Evento:  ok
+11/11/19 - 09:08:19  Evento:  ('Enviado evento pelo buffer', '09:08:19')
+11/11/19 - 09:08:19  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:19  Evento:  ('Enviado evento pelo buffer', '09:08:19')
+11/11/19 - 09:08:24  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:24  Evento:  ('nome obtido do banco', 'Delton ')
+11/11/19 - 09:08:24  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:24  Evento:  Condominio LagoSul IP 172.19.1.251 Delton  Ap 15 29
+11/11/19 - 09:08:24  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:24  Evento:  ok
+11/11/19 - 09:08:24  Evento:  ('Enviado evento pelo buffer', '09:08:24')
+11/11/19 - 09:08:24  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:24  Evento:  ('Enviado evento pelo buffer', '09:08:24')
+11/11/19 - 09:08:29  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:29  Evento:  ('nome obtido do banco', 'Robertinho')
+11/11/19 - 09:08:29  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:29  Evento:  Condominio LagoSul IP 172.19.1.251 Robertinho Ap 08 24
+11/11/19 - 09:08:29  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:30  Evento:  ok
+11/11/19 - 09:08:30  Evento:  ('Enviado evento pelo buffer', '09:08:29')
+11/11/19 - 09:08:30  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:30  Evento:  ('Enviado evento pelo buffer', '09:08:29')
+11/11/19 - 09:08:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:35  Evento:  ('nome obtido do banco', 'Micheli ')
+11/11/19 - 09:08:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:35  Evento:  Condominio LagoSul IP 172.19.1.251 Micheli  Ap 15 29
+11/11/19 - 09:08:35  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:35  Evento:  ok
+11/11/19 - 09:08:35  Evento:  ('Enviado evento pelo buffer', '09:08:35')
+11/11/19 - 09:08:35  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:35  Evento:  ('Enviado evento pelo buffer', '09:08:35')
+11/11/19 - 09:08:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:40  Evento:  ('nome obtido do banco', 'Lais')
+11/11/19 - 09:08:40  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:40  Evento:  Condominio LagoSul IP 172.19.1.251 Lais Ap 03 35
+11/11/19 - 09:08:40  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:40  Evento:  ok
+11/11/19 - 09:08:40  Evento:  ('Enviado evento pelo buffer', '09:08:40')
+11/11/19 - 09:08:40  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:40  Evento:  ('Enviado evento pelo buffer', '09:08:40')
+11/11/19 - 09:08:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:08:45  Evento:  ('nome obtido do banco', 'Rute Cristina Perandre Da Cost')
+11/11/19 - 09:08:45  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:08:45  Evento:  Condominio LagoSul IP 172.19.1.251 Rute Cristina Perandre Da Cost Ap 03 15
+11/11/19 - 09:08:45  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:08:45  Evento:  ok
+11/11/19 - 09:08:45  Evento:  ('Enviado evento pelo buffer', '09:08:45')
+11/11/19 - 09:08:45  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:08:45  Evento:  ('Enviado evento pelo buffer', '09:08:45')
+11/11/19 - 09:09:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:25  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:30  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:30  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:35  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:40  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:45  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:50  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:09:55  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:09:55  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:10:00  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:10:00  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:10:05  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:10:05  Evento:  ('nome obtido do banco', 'Orlando Sac')
+11/11/19 - 09:10:05  Evento:  ('Numero do cliente recebido do condfy', '9014')
+11/11/19 - 09:10:05  Evento:  Condominio Central de Monitoramento IP 172.20.6.14 Orlando Sac Ap Operacao 
+11/11/19 - 09:10:05  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:10:05  Evento:  ok
+11/11/19 - 09:10:05  Evento:  ('Enviado evento pelo buffer', '09:10:05')
+11/11/19 - 09:10:05  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:10:05  Evento:  ('Enviado evento pelo buffer', '09:10:05')
+11/11/19 - 09:12:21  Evento:  Conectado com: 127.0.0.1:46878
+11/11/19 - 09:12:21  Evento:  ('Dados recebidos do webservice', u'cadastrar_qr:65488496')
+11/11/19 - 09:12:21  Evento:  reconheceu cadastrar
+11/11/19 - 09:12:21  Evento:  Cadastrando no CMM...
+11/11/19 - 09:12:21  Evento:  ('nome vindo banco', u'Leandro leal')
+11/11/19 - 09:12:21  Evento:  ('LagoSul', '172.19.1.251')
+11/11/19 - 09:12:21  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+11/11/19 - 09:12:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:12:25  Evento:  ('nome obtido do banco', 'Leandro leal')
+11/11/19 - 09:12:25  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:12:25  Evento:  Condominio LagoSul IP 172.19.1.251 Leandro leal Ap 0 01
+11/11/19 - 09:12:25  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:12:26  Evento:  ok
+11/11/19 - 09:12:26  Evento:  ('Enviado evento pelo buffer', '09:12:25')
+11/11/19 - 09:12:26  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:12:26  Evento:  ('Enviado evento pelo buffer', '09:12:25')

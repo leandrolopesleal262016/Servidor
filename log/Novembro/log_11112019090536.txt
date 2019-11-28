@@ -1,0 +1,56 @@
+11/11/19 - 09:03:44  Evento:  Iniciou o Gerenciador
+11/11/19 - 09:03:45  Evento:  ('Servidor cadastro:', '0.0.0.0', 'porta:', 5050)
+11/11/19 - 09:03:45  Evento:  ('GERENCIADOR ESCUTANDO NA PORTA', 5050)
+11/11/19 - 09:03:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:03:45  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:03:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:03:50  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:03:55  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:03:55  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:00  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:00  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:05  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:05  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:10  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:15  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:20  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:20  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:25  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:30  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:30  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:35  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:40  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:40  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:45  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:45  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:50  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:50  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:04:55  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:04:55  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:00  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:00  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:05  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:05  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:10  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:10  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:15  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:15  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:20  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:20  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:25  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:25  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:30  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:30  Evento:  'ascii' codec can't encode characters in position 5-6: ordinal not in range(128)
+11/11/19 - 09:05:35  Evento:  Encontrou na tabela qrcode cadastro ainda nao enviado
+11/11/19 - 09:05:35  Evento:  ('nome obtido do banco', 'Saulo Fraile')
+11/11/19 - 09:05:35  Evento:  ('Numero do cliente recebido do condfy', '0001')
+11/11/19 - 09:05:35  Evento:  Condominio LagoSul IP 172.19.1.251 Saulo Fraile Ap 01 25
+11/11/19 - 09:05:35  Evento:  Enviando item atraves do buffer para o cliente...
+11/11/19 - 09:05:35  Evento:  ok
+11/11/19 - 09:05:35  Evento:  ('Enviado evento pelo buffer', '09:05:35')
+11/11/19 - 09:05:35  Evento:  Atualizado campo 'enviado' para 1
+11/11/19 - 09:05:35  Evento:  ('Enviado evento pelo buffer', '09:05:35')
